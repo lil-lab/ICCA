@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,0,0,COCO_val2014_000000022118.jpg,94,There are umbrellas and a teenage boy standing to the left side of the picture,15,full_sample,1555373028881,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,1,0,COCO_val2014_000000490244.jpg,94,There are a bunch of surf boards lined up,9,full_sample,1555373051226,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,2,0,COCO_val2014_000000234595.jpg,94,THere is a single row of red umbrellas,8,full_sample,1555373075636,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,3,0,COCO_val2014_000000388846.jpg,94,There are rows and rows of umbrellas and two green lounge chairs to the right in the picture,18,full_sample,1555373110264,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,4,1,COCO_val2014_000000234595.jpg,94,There are one row of umbrellas and the sky has a lot of clouds,14,full_sample,1555373136221,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,5,1,COCO_val2014_000000022118.jpg,94,There is a teenage boy to the left and a green and blue umbrealla,14,full_sample,1555373161475,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,6,1,COCO_val2014_000000388846.jpg,94,Rows of umbrellas and tall buildings in the background,9,full_sample,1555373188020,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,7,1,COCO_val2014_000000490244.jpg,94,There are surfboards and an American flag,7,full_sample,1555373206700,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,8,2,COCO_val2014_000000022118.jpg,94,There is a teenage boy to the left of the pucture,11,full_sample,1555373225770,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,9,2,COCO_val2014_000000490244.jpg,94,There are surf boards and an American flag,8,full_sample,1555373244176,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,10,2,COCO_val2014_000000388846.jpg,94,There are rows of umbrellas and tall buildings,8,full_sample,1555373262877,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,11,2,COCO_val2014_000000234595.jpg,94,One row of umbrellas and lots of clouds in the sky,11,full_sample,1555373283826,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,12,3,COCO_val2014_000000022118.jpg,94,There is a teenage boy and green and blue umbrella,10,full_sample,1555373305682,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,13,3,COCO_val2014_000000234595.jpg,94,One row of umbrellas and lots of clouds in the sky,11,full_sample,1555373324555,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,14,3,COCO_val2014_000000490244.jpg,94,There are rows of surfboards and an American flag,9,full_sample,1555373348367,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,15,3,COCO_val2014_000000388846.jpg,94,Rows of umbrellas and tall buildings,6,full_sample,1555373366443,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,16,4,COCO_val2014_000000490244.jpg,94,SUrf boards lined up and the American flag,8,full_sample,1555373385780,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,17,4,COCO_val2014_000000234595.jpg,94,Onw row of umbrellas and lots of clouds,8,full_sample,1555373403505,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,18,4,COCO_val2014_000000388846.jpg,94,Rows of umbrellas and buildings in the back,8,full_sample,1555373421057,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,19,4,COCO_val2014_000000022118.jpg,94,There is a teenage boy and green and blue umbrella,10,full_sample,1555373442923,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,20,5,COCO_val2014_000000234595.jpg,94,ONe row of umbrealls and clouds,6,full_sample,1555373459018,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,21,5,COCO_val2014_000000022118.jpg,94,Teenage boy and green and blue umbrella,7,full_sample,1555373476787,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,22,5,COCO_val2014_000000388846.jpg,94,Rows of umbrellas and buildings,5,full_sample,1555373492132,target,True
+8039-3abd4361-6c49-4d5c-b641-7b4f299bd07d,23,5,COCO_val2014_000000490244.jpg,94,Surfboards and american flag,4,full_sample,1555373507755,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+6560-a25f4783-ee0a-431e-9668-22d47611113f,0,0,COCO_val2014_000000159716.jpg,13,"broccoli, rice, peas, one carrot",5,full_sample,1556320629681,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,1,0,COCO_val2014_000000558640.jpg,13,red bowl,2,full_sample,1556320653592,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,2,0,COCO_val2014_000000214919.jpg,13,white container on wooden table,5,full_sample,1556320693704,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,3,0,COCO_val2014_000000256660.jpg,13,3 carrots,2,full_sample,1556320716264,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,4,1,COCO_val2014_000000214919.jpg,13,white container on wooden table again,6,full_sample,1556320752735,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,5,1,COCO_val2014_000000558640.jpg,13,red bowl,2,full_sample,1556320779621,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,6,1,COCO_val2014_000000159716.jpg,13,one carrot and one broccoli,5,full_sample,1556320803501,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,7,1,COCO_val2014_000000256660.jpg,13,3 carrots; gravy on meat,5,full_sample,1556320830528,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,8,2,COCO_val2014_000000558640.jpg,13,red bowl,2,full_sample,1556320851929,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,9,2,COCO_val2014_000000256660.jpg,13,3 carrots gravy on meat,5,full_sample,1556320875609,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,10,2,COCO_val2014_000000214919.jpg,13,white container on wood table,5,full_sample,1556320900683,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,11,2,COCO_val2014_000000159716.jpg,13,1 carrot 1 broccoli,4,full_sample,1556320917530,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,12,3,COCO_val2014_000000256660.jpg,13,3 carrots gravy on meat,5,full_sample,1556320933828,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,13,3,COCO_val2014_000000214919.jpg,13,white container; wood table,4,full_sample,1556320955263,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,14,3,COCO_val2014_000000558640.jpg,13,red bowl,2,full_sample,1556320966559,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,15,3,COCO_val2014_000000159716.jpg,13,"1 carrot, 1 broccoli",4,full_sample,1556320985676,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,16,4,COCO_val2014_000000558640.jpg,13,red bowl,2,full_sample,1556320995211,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,17,4,COCO_val2014_000000256660.jpg,13,3 carrots gravy meat,4,full_sample,1556321011554,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,18,4,COCO_val2014_000000159716.jpg,13,"1 carrot,1 broccoli",3,full_sample,1556321031309,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,19,4,COCO_val2014_000000214919.jpg,13,"white container, wood table",4,full_sample,1556321048328,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,20,5,COCO_val2014_000000159716.jpg,13,"1 carrot, 1 broccoli",4,full_sample,1556321064360,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,21,5,COCO_val2014_000000214919.jpg,13,"white container, wood table",4,full_sample,1556321079359,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,22,5,COCO_val2014_000000256660.jpg,13,3 carrots gravy meet,4,full_sample,1556321093633,target,True
+6560-a25f4783-ee0a-431e-9668-22d47611113f,23,5,COCO_val2014_000000558640.jpg,13,red bowl,2,full_sample,1556321102666,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,0,0,COCO_val2014_000000337247.jpg,26,"The photo with 'amazon' on the back, with 2 bananas",10,full_sample,1555373833208,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,1,0,COCO_val2014_000000198367.jpg,26,Photo with a bowl of 3 bananas with a pokadot background,11,full_sample,1555373867465,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,2,0,COCO_val2014_000000344758.jpg,26,"A bowl full of mixed fruit, black background",8,full_sample,1555373897279,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,3,0,COCO_val2014_000000353558.jpg,26,Photo with a bowl of 3 bananas with stripes and other patterns in the background,15,full_sample,1555373934952,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,4,1,COCO_val2014_000000337247.jpg,26,Amazon in back with 2 bananas,6,full_sample,1555373954481,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,5,1,COCO_val2014_000000353558.jpg,26,3 bananas with stripes and other patterns in the background,10,full_sample,1555373975447,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,6,1,COCO_val2014_000000198367.jpg,26,3 bananas with a pokadot background,6,full_sample,1555373989271,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,7,1,COCO_val2014_000000344758.jpg,26,"mixed fruit, black background",4,full_sample,1555373998727,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,8,2,COCO_val2014_000000198367.jpg,26,3 bananas with a pokadot background,6,full_sample,1555374009153,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,9,2,COCO_val2014_000000337247.jpg,26,Amazon in back with 2 bananas,6,full_sample,1555374020648,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,10,2,COCO_val2014_000000344758.jpg,26,"mixed fruit, black background",4,full_sample,1555374031503,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,11,2,COCO_val2014_000000353558.jpg,26,3 bananas with stripes and other patterns in the background,10,full_sample,1555374040881,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,12,3,COCO_val2014_000000198367.jpg,26,pokadot background,2,full_sample,1555374055359,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,13,3,COCO_val2014_000000353558.jpg,26,stripes and other patterns,4,full_sample,1555374069832,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,14,3,COCO_val2014_000000337247.jpg,26,Amazon in back with 2 bananas,6,full_sample,1555374080729,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,15,3,COCO_val2014_000000344758.jpg,26,"mixed fruit, black background",4,full_sample,1555374092439,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,16,4,COCO_val2014_000000353558.jpg,26,patterned stripes in back,4,full_sample,1555374110929,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,17,4,COCO_val2014_000000344758.jpg,26,black background,2,full_sample,1555374121632,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,18,4,COCO_val2014_000000198367.jpg,26,pokadot,1,full_sample,1555374130969,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,19,4,COCO_val2014_000000337247.jpg,26,amazon,1,full_sample,1555374142103,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,20,5,COCO_val2014_000000344758.jpg,26,black,1,full_sample,1555374153578,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,21,5,COCO_val2014_000000353558.jpg,26,patterns,1,full_sample,1555374166631,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,22,5,COCO_val2014_000000337247.jpg,26,amazon,1,full_sample,1555374174943,target,True
+5463-bb90cd20-cc2c-428c-9775-d62716accacf,23,5,COCO_val2014_000000198367.jpg,26,pokadot,1,full_sample,1555374183696,target,True

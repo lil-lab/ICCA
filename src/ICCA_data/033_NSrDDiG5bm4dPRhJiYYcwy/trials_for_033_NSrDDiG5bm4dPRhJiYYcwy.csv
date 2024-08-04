@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,0,0,COCO_val2014_000000460732.jpg,33,the monkey is sitting in sand,6,full_sample,1556316843582,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,1,0,COCO_val2014_000000014592.jpg,33,the monkey has a bottle,5,full_sample,1556316857693,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,2,0,COCO_val2014_000000360318.jpg,33,the monkey looks like a baby monkey,7,full_sample,1556316877941,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,3,0,COCO_val2014_000000045387.jpg,33,the monkey looks like it is sitting on gravel and slightly older,12,full_sample,1556316904623,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,4,1,COCO_val2014_000000460732.jpg,33,the monkey is sitting on sand,6,full_sample,1556316923271,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,5,1,COCO_val2014_000000045387.jpg,33,the monkey is sitting on gravel,6,full_sample,1556316941502,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,6,1,COCO_val2014_000000014592.jpg,33,the monkey has a bottle,5,full_sample,1556316954659,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,7,1,COCO_val2014_000000360318.jpg,33,the monkey is a baby,5,full_sample,1556316970935,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,8,2,COCO_val2014_000000045387.jpg,33,the monkey is sitting on gravel,6,full_sample,1556316989438,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,9,2,COCO_val2014_000000460732.jpg,33,the monkey is sitting on sand,6,full_sample,1556316999981,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,10,2,COCO_val2014_000000014592.jpg,33,the monkey has a bottle,5,full_sample,1556317010963,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,11,2,COCO_val2014_000000360318.jpg,33,the monkey is a baby,5,full_sample,1556317025776,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,12,3,COCO_val2014_000000460732.jpg,33,the monkey is sitting on sand,6,full_sample,1556317039663,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,13,3,COCO_val2014_000000045387.jpg,33,the monkey is sitting on gravel,6,full_sample,1556317053012,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,14,3,COCO_val2014_000000360318.jpg,33,the monkey is a baby,5,full_sample,1556317067361,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,15,3,COCO_val2014_000000014592.jpg,33,the monkey has a bottle,5,full_sample,1556317078075,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,16,4,COCO_val2014_000000460732.jpg,33,the monkey is sitting on sand,6,full_sample,1556317090005,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,17,4,COCO_val2014_000000045387.jpg,33,the monkey is sitting on gravel,6,full_sample,1556317104952,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,18,4,COCO_val2014_000000360318.jpg,33,the monkey is a baby,5,full_sample,1556317117443,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,19,4,COCO_val2014_000000014592.jpg,33,the monkey has a bottle,5,full_sample,1556317130422,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,20,5,COCO_val2014_000000045387.jpg,33,the monkey is sitting on gravel,6,full_sample,1556317145234,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,21,5,COCO_val2014_000000360318.jpg,33,the monkey is a baby,5,full_sample,1556317157121,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,22,5,COCO_val2014_000000014592.jpg,33,the monkey has a bottle,5,full_sample,1556317172805,target,True
+7560-72dbf7e1-0071-48dc-a1db-0b02b3d6a839,23,5,COCO_val2014_000000460732.jpg,33,the monkey is sitting on sand,6,full_sample,1556317186991,target,True

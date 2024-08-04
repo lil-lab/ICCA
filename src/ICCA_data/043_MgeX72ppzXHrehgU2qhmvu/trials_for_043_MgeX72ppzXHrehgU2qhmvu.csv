@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,0,0,COCO_val2014_000000027285.jpg,43,Kitchen with white refrigerator and wood panel background,8,full_sample,1555374249753,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,1,0,COCO_val2014_000000053697.jpg,43,"Microwave in far right corner and old, old stove in middle",11,full_sample,1555374293157,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,2,0,COCO_val2014_000000548523.jpg,43,Modern kitchen with black / gray exterior and cardboard boxes on lower shelves,13,full_sample,1555374337657,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,3,0,COCO_val2014_000000454907.jpg,43,The only option you haven't selected. Kitchen with wood cabinet drawers. Refrigerator at far right of picture,17,full_sample,1555374397693,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,4,1,COCO_val2014_000000027285.jpg,43,White refrigerator on left and wood paneling behind appliances,9,full_sample,1555374434913,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,5,1,COCO_val2014_000000454907.jpg,43,Wood panel cabinets and drawers with refrigerator at far right,10,full_sample,1555374474317,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,6,1,COCO_val2014_000000548523.jpg,43,Black / grey exterior with cardboard boxes below,8,full_sample,1555374501457,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,7,1,COCO_val2014_000000053697.jpg,43,"Old, old stove in middle with microwave at far right",10,full_sample,1555374536197,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,8,2,COCO_val2014_000000454907.jpg,43,Wood paneled drawers and cabinets,5,full_sample,1555374554641,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,9,2,COCO_val2014_000000548523.jpg,43,Black / grey with cardboard boxes below,7,full_sample,1555374576621,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,10,2,COCO_val2014_000000053697.jpg,43,"Old, old stove with microwave at far right",8,full_sample,1555374596849,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,11,2,COCO_val2014_000000027285.jpg,43,White refrigerator at left and wood panel in back,9,full_sample,1555374618882,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,12,3,COCO_val2014_000000548523.jpg,43,Black / grey exterior,4,full_sample,1555374635577,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,13,3,COCO_val2014_000000027285.jpg,43,White refrigerator / wood panel,5,full_sample,1555374654689,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,14,3,COCO_val2014_000000454907.jpg,43,Wood drawers and cabinets,4,full_sample,1555374681386,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,15,3,COCO_val2014_000000053697.jpg,43,"Old, old stove",3,full_sample,1555374695857,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,16,4,COCO_val2014_000000027285.jpg,43,White refrigerator / Wood panel in background,7,full_sample,1555374739961,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,17,4,COCO_val2014_000000548523.jpg,43,Black / grey exterior,4,full_sample,1555374758726,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,18,4,COCO_val2014_000000053697.jpg,43,"Old, old stove",3,full_sample,1555374774133,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,19,4,COCO_val2014_000000454907.jpg,43,Wood paneled drawers and cabinets,5,full_sample,1555374817578,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,20,5,COCO_val2014_000000548523.jpg,43,Black / grey exterior,4,full_sample,1555374839621,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,21,5,COCO_val2014_000000454907.jpg,43,Wood paneled drawers and cabinets,5,full_sample,1555374854154,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,22,5,COCO_val2014_000000027285.jpg,43,White refrigerator and wood panel in back,7,full_sample,1555374875591,target,True
+2421-6e995a34-20c9-4f55-be01-99f6707e0b72,23,5,COCO_val2014_000000053697.jpg,43,"Old, old stove",3,full_sample,1555374894746,target,True

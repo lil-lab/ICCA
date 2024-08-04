@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,0,0,COCO_val2014_000000363922.jpg,64,There is a star above the guy,7,full_sample,1555375000521,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,1,0,COCO_val2014_000000350855.jpg,64,blow out the candles in the cake,7,full_sample,1555375031969,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,2,0,COCO_val2014_000000182170.jpg,64,Standing in front tv,4,full_sample,1555375054374,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,3,0,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1555375072018,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,4,1,COCO_val2014_000000182170.jpg,64,standing in front tv,4,full_sample,1555375087552,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,5,1,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1555375099383,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,6,1,COCO_val2014_000000350855.jpg,64,blow out the candles in the cake,7,full_sample,1555375119206,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,7,1,COCO_val2014_000000363922.jpg,64,star above the guy,4,full_sample,1555375134253,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,8,2,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1555375145205,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,9,2,COCO_val2014_000000363922.jpg,64,star above the guy,4,full_sample,1555375157168,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,10,2,COCO_val2014_000000350855.jpg,64,candles in the cake,4,full_sample,1555375174018,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,11,2,COCO_val2014_000000182170.jpg,64,standing in front tv,4,full_sample,1555375188300,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,12,3,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1555375200767,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,13,3,COCO_val2014_000000363922.jpg,64,star above the guy,4,full_sample,1555375213789,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,14,3,COCO_val2014_000000350855.jpg,64,candles in the cake,4,full_sample,1555375228761,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,15,3,COCO_val2014_000000182170.jpg,64,standing in front tv,4,full_sample,1555375241571,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,16,4,COCO_val2014_000000363922.jpg,64,star above the guy,4,full_sample,1555375253165,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,17,4,COCO_val2014_000000350855.jpg,64,candles in the cake,4,full_sample,1555375268011,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,18,4,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1555375279086,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,19,4,COCO_val2014_000000182170.jpg,64,standing front tv,3,full_sample,1555375294174,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,20,5,COCO_val2014_000000350855.jpg,64,candles in the cake,4,full_sample,1555375311586,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,21,5,COCO_val2014_000000363922.jpg,64,star above the guy,4,full_sample,1555375325965,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,22,5,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1555375338510,target,True
+4988-f5ae366f-0bf8-4fd0-815a-6acd982277d6,23,5,COCO_val2014_000000182170.jpg,64,standing front tv,3,full_sample,1555375350279,target,True

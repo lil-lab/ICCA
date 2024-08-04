@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,0,0,COCO_val2014_000000142890.jpg,83,black cat blocking single monitor,5,pilot0,1555355711268,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,1,0,COCO_val2014_000000040842.jpg,83,cat on shelf above monitor,5,pilot0,1555355728653,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,2,0,COCO_val2014_000000232383.jpg,83,cat behind monitor,3,pilot0,1555355745450,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,3,0,COCO_val2014_000000375509.jpg,83,laptop and monitor with cat in front of monitor,9,pilot0,1555355773576,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,4,1,COCO_val2014_000000142890.jpg,83,black cat in front of monitor,6,pilot0,1555355795466,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,5,1,COCO_val2014_000000232383.jpg,83,cat behind monitor,3,pilot0,1555355810589,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,6,1,COCO_val2014_000000040842.jpg,83,cat on shelf above monitor,5,pilot0,1555355832931,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,7,1,COCO_val2014_000000375509.jpg,83,laptop and monitor,3,pilot0,1555355851521,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,8,2,COCO_val2014_000000232383.jpg,83,cat behind,2,pilot0,1555355866989,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,9,2,COCO_val2014_000000142890.jpg,83,black cat in front,4,pilot0,1555355883158,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,10,2,COCO_val2014_000000375509.jpg,83,laptop and monitor,3,pilot0,1555355898524,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,11,2,COCO_val2014_000000040842.jpg,83,cat shelf,2,pilot0,1555355911790,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,12,3,COCO_val2014_000000375509.jpg,83,laptop and monitor,3,pilot0,1555355924681,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,13,3,COCO_val2014_000000232383.jpg,83,cat behind,2,pilot0,1555355937771,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,14,3,COCO_val2014_000000142890.jpg,83,black cat in front,4,pilot0,1555355956475,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,15,3,COCO_val2014_000000040842.jpg,83,cat shelf,2,pilot0,1555355965146,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,16,4,COCO_val2014_000000375509.jpg,83,laptop and monitor,3,pilot0,1555355977376,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,17,4,COCO_val2014_000000142890.jpg,83,black cat in front,4,pilot0,1555355988473,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,18,4,COCO_val2014_000000040842.jpg,83,cat shelf,2,pilot0,1555355997605,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,19,4,COCO_val2014_000000232383.jpg,83,cat behind,2,pilot0,1555356007529,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,20,5,COCO_val2014_000000040842.jpg,83,cat self,2,pilot0,1555356017159,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,21,5,COCO_val2014_000000142890.jpg,83,black cat in front,4,pilot0,1555356026817,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,22,5,COCO_val2014_000000375509.jpg,83,laptop and monitor,3,pilot0,1555356040788,target,True
+5646-5e626710-a547-4f40-b725-b305d48bdc4f,23,5,COCO_val2014_000000232383.jpg,83,cat behind,2,pilot0,1555356049688,target,True

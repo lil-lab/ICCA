@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,0,0,COCO_val2014_000000191721.jpg,84,Girl wearing the striped shirt and red skirt,8,full_sample,1556314497087,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,1,0,COCO_val2014_000000284220.jpg,84,Boy wearing the red shirt with white stripe,8,full_sample,1556314515894,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,2,0,COCO_val2014_000000501898.jpg,84,Woman wearing the pink shirt and blue shorts,8,full_sample,1556314529083,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,3,0,COCO_val2014_000000580847.jpg,84,Girl wearing all white,4,full_sample,1556314539551,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,4,1,COCO_val2014_000000501898.jpg,84,woman with pink shirt,4,full_sample,1556314549905,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,5,1,COCO_val2014_000000580847.jpg,84,girl in all white,4,full_sample,1556314559357,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,6,1,COCO_val2014_000000284220.jpg,84,boy in red shirt,4,full_sample,1556314568672,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,7,1,COCO_val2014_000000191721.jpg,84,girl in striped shirt and red skirt,7,full_sample,1556314581425,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,8,2,COCO_val2014_000000501898.jpg,84,woman in pink,3,full_sample,1556314590234,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,9,2,COCO_val2014_000000191721.jpg,84,girl in striped shirt,4,full_sample,1556314600326,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,10,2,COCO_val2014_000000284220.jpg,84,boy in red,3,full_sample,1556314608662,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,11,2,COCO_val2014_000000580847.jpg,84,girl in all white,4,full_sample,1556314617432,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,12,3,COCO_val2014_000000501898.jpg,84,woman in pink,3,full_sample,1556314626892,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,13,3,COCO_val2014_000000284220.jpg,84,boy in red,3,full_sample,1556314635120,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,14,3,COCO_val2014_000000580847.jpg,84,girl in all white,4,full_sample,1556314644414,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,15,3,COCO_val2014_000000191721.jpg,84,girl in stripes,3,full_sample,1556314656155,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,16,4,COCO_val2014_000000284220.jpg,84,boy in red,3,full_sample,1556314664009,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,17,4,COCO_val2014_000000191721.jpg,84,girl in stripes,3,full_sample,1556314672642,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,18,4,COCO_val2014_000000580847.jpg,84,girl in all white,4,full_sample,1556314682588,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,19,4,COCO_val2014_000000501898.jpg,84,woman in pink,3,full_sample,1556314692341,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,20,5,COCO_val2014_000000191721.jpg,84,girl in stripes,3,full_sample,1556314701130,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,21,5,COCO_val2014_000000580847.jpg,84,girl in all white,4,full_sample,1556314710162,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,22,5,COCO_val2014_000000501898.jpg,84,woman in pink,3,full_sample,1556314720846,target,True
+4425-e80ade8f-82e5-40b4-9644-c9993e2ff689,23,5,COCO_val2014_000000284220.jpg,84,boy in red,3,full_sample,1556314728958,target,True

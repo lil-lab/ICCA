@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,0,0,COCO_val2014_000000535312.jpg,68,bike in the living room,5,full_sample,1556320502286,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,1,0,COCO_val2014_000000468162.jpg,68,guy sleeping on couch,4,full_sample,1556320521293,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,2,0,COCO_val2014_000000391269.jpg,68,small brown leather couch next to another,7,full_sample,1556320553663,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,3,0,COCO_val2014_000000427965.jpg,68,dark wood floors,3,full_sample,1556320572483,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,4,1,COCO_val2014_000000391269.jpg,68,really messy living room,4,full_sample,1556320612902,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,5,1,COCO_val2014_000000427965.jpg,68,dark wood floors,3,full_sample,1556320627223,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,6,1,COCO_val2014_000000535312.jpg,68,bike in living room,4,full_sample,1556320642167,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,7,1,COCO_val2014_000000468162.jpg,68,guy on couch,3,full_sample,1556320652031,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,8,2,COCO_val2014_000000427965.jpg,68,dark floors,2,full_sample,1556320662704,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,9,2,COCO_val2014_000000391269.jpg,68,messy living room,3,full_sample,1556320687517,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,10,2,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556320697195,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,11,2,COCO_val2014_000000468162.jpg,68,guy sleeping,2,full_sample,1556320706876,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,12,3,COCO_val2014_000000391269.jpg,68,messy room,2,full_sample,1556320718225,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,13,3,COCO_val2014_000000468162.jpg,68,guy sleeping,2,full_sample,1556320728295,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,14,3,COCO_val2014_000000535312.jpg,68,bik,1,full_sample,1556320737001,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,15,3,COCO_val2014_000000427965.jpg,68,dark floors,2,full_sample,1556320746525,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,16,4,COCO_val2014_000000468162.jpg,68,guyy sleeping,2,full_sample,1556320756398,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,17,4,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556320764683,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,18,4,COCO_val2014_000000391269.jpg,68,messy,1,full_sample,1556320773992,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,19,4,COCO_val2014_000000427965.jpg,68,dark floors,2,full_sample,1556320784866,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,20,5,COCO_val2014_000000391269.jpg,68,messy,1,full_sample,1556320796877,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,21,5,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556320805980,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,22,5,COCO_val2014_000000427965.jpg,68,dark floor,2,full_sample,1556320817609,target,True
+1769-4c90f5bb-b1da-4a22-a052-c282724b78e8,23,5,COCO_val2014_000000468162.jpg,68,sleeping,1,full_sample,1556320827059,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,0,0,COCO_val2014_000000027272.jpg,41,"it's the bear laying lower in the field, closer frame",10,full_sample,1555373247341,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,1,0,COCO_val2014_000000174457.jpg,41,purple flowers,2,full_sample,1555373287278,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,2,0,COCO_val2014_000000452263.jpg,41,"farther away, partially concealed by grass, no flowers",8,full_sample,1555373320375,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,3,0,COCO_val2014_000000083773.jpg,41,bear in center on rocks,5,full_sample,1555373342563,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,4,1,COCO_val2014_000000027272.jpg,41,"crouched down in grass, closer frame",6,full_sample,1555373371701,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,5,1,COCO_val2014_000000452263.jpg,41,"farther away, partially concealed by grass, no flowers",8,full_sample,1555373386619,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,6,1,COCO_val2014_000000083773.jpg,41,"center, on rocks",3,full_sample,1555373396668,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,7,1,COCO_val2014_000000174457.jpg,41,purple flowers,2,full_sample,1555373409767,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,8,2,COCO_val2014_000000027272.jpg,41,"crouched down, closer frame",4,full_sample,1555373421760,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,9,2,COCO_val2014_000000083773.jpg,41,on rocks,2,full_sample,1555373430434,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,10,2,COCO_val2014_000000452263.jpg,41,"farther away, partially concealed by grass, no flowers",8,full_sample,1555373440941,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,11,2,COCO_val2014_000000174457.jpg,41,purple flowers,2,full_sample,1555373451913,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,12,3,COCO_val2014_000000083773.jpg,41,rocks,1,full_sample,1555373462232,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,13,3,COCO_val2014_000000452263.jpg,41,"farther away, partially concealed by grass, no flowers",8,full_sample,1555373472748,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,14,3,COCO_val2014_000000027272.jpg,41,"closer frame, crouched down in grass",6,full_sample,1555373490885,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,15,3,COCO_val2014_000000174457.jpg,41,purple flowers,2,full_sample,1555373500695,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,16,4,COCO_val2014_000000027272.jpg,41,"crouched, closer",2,full_sample,1555373512377,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,17,4,COCO_val2014_000000083773.jpg,41,rocks,1,full_sample,1555373522263,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,18,4,COCO_val2014_000000452263.jpg,41,"farther away, partially concealed by grass, no flowers",8,full_sample,1555373530557,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,19,4,COCO_val2014_000000174457.jpg,41,purple flowers,2,full_sample,1555373538905,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,20,5,COCO_val2014_000000027272.jpg,41,"crouched, closer",2,full_sample,1555373549285,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,21,5,COCO_val2014_000000083773.jpg,41,rocks,1,full_sample,1555373558631,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,22,5,COCO_val2014_000000174457.jpg,41,purple flowers...,2,full_sample,1555373577019,target,True
+5323-07d12ab3-2ddb-40d4-ae57-f802425c3276,23,5,COCO_val2014_000000452263.jpg,41,"farther away, partially concealed by grass, no flowers",8,full_sample,1555373588084,target,True

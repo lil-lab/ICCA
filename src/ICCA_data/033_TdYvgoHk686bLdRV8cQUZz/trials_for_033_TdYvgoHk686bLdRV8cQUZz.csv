@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,0,0,COCO_val2014_000000014592.jpg,33,The monkey biting the bottle.,5,full_sample,1556321153790,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,1,0,COCO_val2014_000000360318.jpg,33,The baby monkey eating on a rocky cliff.,8,full_sample,1556321180120,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,2,0,COCO_val2014_000000460732.jpg,33,The monkey sitting on sand.,5,full_sample,1556321204230,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,3,0,COCO_val2014_000000045387.jpg,33,The monkey sitting on hay or dry grass.,8,full_sample,1556321229667,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,4,1,COCO_val2014_000000360318.jpg,33,The baby monkey on the rocky cliff.,7,full_sample,1556321248811,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,5,1,COCO_val2014_000000460732.jpg,33,The monkey sitting on sand.,5,full_sample,1556321262740,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,6,1,COCO_val2014_000000045387.jpg,33,The monkey sitting on dry grass.,6,full_sample,1556321278111,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,7,1,COCO_val2014_000000014592.jpg,33,The monkey biting the bottle.,5,full_sample,1556321289952,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,8,2,COCO_val2014_000000360318.jpg,33,The baby monkey on the rocky cliff.,7,full_sample,1556321313116,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,9,2,COCO_val2014_000000014592.jpg,33,The monkey biting the bottle.,5,full_sample,1556321324844,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,10,2,COCO_val2014_000000045387.jpg,33,The monkey sitting on dry grass.,6,full_sample,1556321341679,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,11,2,COCO_val2014_000000460732.jpg,33,The monkey sitting on sand.,5,full_sample,1556321357921,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,12,3,COCO_val2014_000000014592.jpg,33,The monkey biting the bottle.,5,full_sample,1556321371971,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,13,3,COCO_val2014_000000360318.jpg,33,The baby monkey eating on the rocks.,7,full_sample,1556321387453,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,14,3,COCO_val2014_000000460732.jpg,33,The monkey on the sand.,5,full_sample,1556321401159,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,15,3,COCO_val2014_000000045387.jpg,33,The monkey sitting on dry grass,6,full_sample,1556321418864,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,16,4,COCO_val2014_000000014592.jpg,33,The monkey biting the bottle.,5,full_sample,1556321432131,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,17,4,COCO_val2014_000000360318.jpg,33,Baby monkey on rocks.,4,full_sample,1556321445933,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,18,4,COCO_val2014_000000045387.jpg,33,Monkey on dry grass.,4,full_sample,1556321457814,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,19,4,COCO_val2014_000000460732.jpg,33,Monkey sitting on sand.,4,full_sample,1556321470232,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,20,5,COCO_val2014_000000014592.jpg,33,Monkey biting bottle,3,full_sample,1556321482942,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,21,5,COCO_val2014_000000360318.jpg,33,Baby monkey on rocks.,4,full_sample,1556321495568,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,22,5,COCO_val2014_000000460732.jpg,33,Monkey on sand.,3,full_sample,1556321505034,target,True
+1970-9004306c-6812-4765-b5b3-c71fe2958c9f,23,5,COCO_val2014_000000045387.jpg,33,Monkey on dry grass.,4,full_sample,1556321517613,target,True

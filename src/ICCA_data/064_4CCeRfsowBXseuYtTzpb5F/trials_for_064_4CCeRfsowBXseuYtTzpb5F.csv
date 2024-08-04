@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,0,0,COCO_val2014_000000447854.jpg,64,there's a couple with a wedding cake,7,full_sample,1556317948563,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,1,0,COCO_val2014_000000182170.jpg,64,"theres a couple looking at a tv, playing a video game. a man and woman",15,full_sample,1556317977870,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,2,0,COCO_val2014_000000350855.jpg,64,a woman and a birthday cake,6,full_sample,1556317993584,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,3,0,COCO_val2014_000000363922.jpg,64,a man and child playing a video game,8,full_sample,1556318015731,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,4,1,COCO_val2014_000000350855.jpg,64,woman and birthday cake,4,full_sample,1556318031188,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,5,1,COCO_val2014_000000363922.jpg,64,man and child playing game,5,full_sample,1556318047013,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,6,1,COCO_val2014_000000447854.jpg,64,couple with wedding cake,4,full_sample,1556318061509,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,7,1,COCO_val2014_000000182170.jpg,64,man and woman playing game,5,full_sample,1556318075725,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,8,2,COCO_val2014_000000363922.jpg,64,man and child playing game,5,full_sample,1556318088877,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,9,2,COCO_val2014_000000350855.jpg,64,birthday cake,2,full_sample,1556318099231,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,10,2,COCO_val2014_000000182170.jpg,64,man and woman playing game,5,full_sample,1556318115691,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,11,2,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1556318126663,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,12,3,COCO_val2014_000000363922.jpg,64,man and  child playing game,5,full_sample,1556318140002,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,13,3,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1556318149792,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,14,3,COCO_val2014_000000182170.jpg,64,man and woman playing game,5,full_sample,1556318163154,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,15,3,COCO_val2014_000000350855.jpg,64,birthday cake,2,full_sample,1556318175391,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,16,4,COCO_val2014_000000363922.jpg,64,man and child playing game,5,full_sample,1556318188002,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,17,4,COCO_val2014_000000350855.jpg,64,birthday cake,2,full_sample,1556318198309,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,18,4,COCO_val2014_000000182170.jpg,64,man and woman playing game,5,full_sample,1556318210987,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,19,4,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1556318221933,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,20,5,COCO_val2014_000000350855.jpg,64,birthday cake,2,full_sample,1556318234303,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,21,5,COCO_val2014_000000182170.jpg,64,man and woman playing game,5,full_sample,1556318246182,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,22,5,COCO_val2014_000000363922.jpg,64,man and child playing game,5,full_sample,1556318257619,target,True
+7958-0c3ed1b7-c739-47c3-bb63-8e557cddcef7,23,5,COCO_val2014_000000447854.jpg,64,wedding cake,2,full_sample,1556318266986,target,True

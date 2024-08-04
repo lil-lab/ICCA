@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,0,0,COCO_val2014_000000315939.jpg,65,a man and a woman standing by a bench,9,pilot0,1555354000997,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,1,0,COCO_val2014_000000248382.jpg,65,woman in an orange sari sitting on a bench,9,pilot0,1555354022068,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,2,0,COCO_val2014_000000388398.jpg,65,woman in orange sari,4,pilot0,1555354037828,distr2,False
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,3,0,COCO_val2014_000000504977.jpg,65,African-American woman on bench,4,pilot0,1555354062979,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,4,1,COCO_val2014_000000315939.jpg,65,man and woman standing,4,pilot0,1555354081244,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,5,1,COCO_val2014_000000388398.jpg,65,2 children sitting on a bench,6,pilot0,1555354097799,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,6,1,COCO_val2014_000000248382.jpg,65,orange sari,2,pilot0,1555354111900,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,7,1,COCO_val2014_000000504977.jpg,65,old woman with purse,4,pilot0,1555354137500,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,8,2,COCO_val2014_000000388398.jpg,65,children,1,pilot0,1555354148733,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,9,2,COCO_val2014_000000315939.jpg,65,man + woman,3,pilot0,1555354161268,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,10,2,COCO_val2014_000000504977.jpg,65,old woman with purse,4,pilot0,1555354173045,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,11,2,COCO_val2014_000000248382.jpg,65,orange sari,2,pilot0,1555354184293,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,12,3,COCO_val2014_000000315939.jpg,65,man and woman,3,pilot0,1555354194584,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,13,3,COCO_val2014_000000388398.jpg,65,children,1,pilot0,1555354207653,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,14,3,COCO_val2014_000000504977.jpg,65,old woman with purse,4,pilot0,1555354219093,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,15,3,COCO_val2014_000000248382.jpg,65,orange sari,2,pilot0,1555354229277,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,16,4,COCO_val2014_000000248382.jpg,65,orange sari,2,pilot0,1555354240693,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,17,4,COCO_val2014_000000388398.jpg,65,children,1,pilot0,1555354250661,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,18,4,COCO_val2014_000000504977.jpg,65,old woman with purse,4,pilot0,1555354262781,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,19,4,COCO_val2014_000000315939.jpg,65,man and woman,3,pilot0,1555354273237,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,20,5,COCO_val2014_000000504977.jpg,65,old woman with purse,4,pilot0,1555354283877,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,21,5,COCO_val2014_000000248382.jpg,65,orange sari,2,pilot0,1555354293478,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,22,5,COCO_val2014_000000388398.jpg,65,children,1,pilot0,1555354303966,target,True
+2635-51f6aa15-c301-4b51-b134-c229603e1be5,23,5,COCO_val2014_000000315939.jpg,65,man and woman,3,pilot0,1555354313053,target,True

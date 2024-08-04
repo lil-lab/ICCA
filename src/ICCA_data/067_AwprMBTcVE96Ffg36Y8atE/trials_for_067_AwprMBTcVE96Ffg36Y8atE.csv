@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,0,0,COCO_val2014_000000199442.jpg,67,black swimsuit white board,4,full_sample,1556315850910,distr1,False
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,1,0,COCO_val2014_000000483358.jpg,67,blue ring around white surf board,6,full_sample,1556315878197,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,2,0,COCO_val2014_000000485212.jpg,67,surfer far away from the camera,6,full_sample,1556315923409,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,3,0,COCO_val2014_000000423113.jpg,67,white shirt,2,full_sample,1556315941402,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,4,1,COCO_val2014_000000483358.jpg,67,surfer with no shirt,4,full_sample,1556315960129,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,5,1,COCO_val2014_000000199442.jpg,67,black shirt riding wave sideways,5,full_sample,1556315992829,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,6,1,COCO_val2014_000000423113.jpg,67,white shirt,2,full_sample,1556316010857,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,7,1,COCO_val2014_000000485212.jpg,67,surfer far away from camera,5,full_sample,1556316028859,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,8,2,COCO_val2014_000000423113.jpg,67,white shirt,2,full_sample,1556316050281,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,9,2,COCO_val2014_000000483358.jpg,67,surfer with no shirt,4,full_sample,1556316069033,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,10,2,COCO_val2014_000000485212.jpg,67,surfer far away from camera,5,full_sample,1556316084786,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,11,2,COCO_val2014_000000199442.jpg,67,black shirt riding wave sideways,5,full_sample,1556316108498,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,12,3,COCO_val2014_000000423113.jpg,67,white shirt,2,full_sample,1556316119322,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,13,3,COCO_val2014_000000483358.jpg,67,no shirt,2,full_sample,1556316134161,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,14,3,COCO_val2014_000000199442.jpg,67,black swimsuit riding sideways,4,full_sample,1556316156169,distr1,False
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,15,3,COCO_val2014_000000485212.jpg,67,surfer far away from camera,5,full_sample,1556316173161,distr0,False
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,16,4,COCO_val2014_000000199442.jpg,67,black swim gear riding wave sideways,6,full_sample,1556316198813,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,17,4,COCO_val2014_000000485212.jpg,67,surfer far away from camera,5,full_sample,1556316216632,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,18,4,COCO_val2014_000000423113.jpg,67,white shirt,2,full_sample,1556316232306,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,19,4,COCO_val2014_000000483358.jpg,67,no shirt,2,full_sample,1556316246752,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,20,5,COCO_val2014_000000423113.jpg,67,white shirt,2,full_sample,1556316263585,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,21,5,COCO_val2014_000000483358.jpg,67,no shirt,2,full_sample,1556316274721,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,22,5,COCO_val2014_000000485212.jpg,67,surfer far away from the camera,6,full_sample,1556316292280,target,True
+7874-32455593-721f-4fee-b4c3-bd9bd889489b,23,5,COCO_val2014_000000199442.jpg,67,black swim gear riding wave sideways,6,full_sample,1556316322504,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+8390-d31c89af-0510-428e-af13-c2322c67619c,0,0,COCO_val2014_000000447854.jpg,64,Wedding cake and two people holding arms up,8,full_sample,1556315357038,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,1,0,COCO_val2014_000000182170.jpg,64,"Two people from behind, you can see their backs",9,full_sample,1556315377969,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,2,0,COCO_val2014_000000350855.jpg,64,A woman covering her face,5,full_sample,1556315389308,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,3,0,COCO_val2014_000000363922.jpg,64,Theres a surfboard on the wall,6,full_sample,1556315400592,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,4,1,COCO_val2014_000000182170.jpg,64,PEoples backs,2,full_sample,1556315410363,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,5,1,COCO_val2014_000000447854.jpg,64,Arms up wedding cake,4,full_sample,1556315422340,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,6,1,COCO_val2014_000000350855.jpg,64,covering face,2,full_sample,1556315431107,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,7,1,COCO_val2014_000000363922.jpg,64,surfboard,1,full_sample,1556315439776,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,8,2,COCO_val2014_000000350855.jpg,64,covering face,2,full_sample,1556315448134,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,9,2,COCO_val2014_000000447854.jpg,64,arms up cake,3,full_sample,1556315459205,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,10,2,COCO_val2014_000000363922.jpg,64,surfboard,1,full_sample,1556315467405,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,11,2,COCO_val2014_000000182170.jpg,64,backs of people,3,full_sample,1556315476624,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,12,3,COCO_val2014_000000350855.jpg,64,covering face,2,full_sample,1556315484901,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,13,3,COCO_val2014_000000182170.jpg,64,backs,1,full_sample,1556315501851,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,14,3,COCO_val2014_000000447854.jpg,64,arms up cake,3,full_sample,1556315512987,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,15,3,COCO_val2014_000000363922.jpg,64,surfbaord,1,full_sample,1556315520868,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,16,4,COCO_val2014_000000182170.jpg,64,backs,1,full_sample,1556315527902,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,17,4,COCO_val2014_000000363922.jpg,64,surf,1,full_sample,1556315535369,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,18,4,COCO_val2014_000000447854.jpg,64,arms up,2,full_sample,1556315542799,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,19,4,COCO_val2014_000000350855.jpg,64,covering face,2,full_sample,1556315550565,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,20,5,COCO_val2014_000000182170.jpg,64,backs,1,full_sample,1556315557855,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,21,5,COCO_val2014_000000350855.jpg,64,covering face,2,full_sample,1556315565651,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,22,5,COCO_val2014_000000447854.jpg,64,arms,1,full_sample,1556315573026,target,True
+8390-d31c89af-0510-428e-af13-c2322c67619c,23,5,COCO_val2014_000000363922.jpg,64,surf,1,full_sample,1556315580064,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,0,0,COCO_val2014_000000338826.jpg,4,A house with a flag pole,6,full_sample,1555373163292,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,1,0,COCO_val2014_000000201004.jpg,4,A building that looks like the white house,8,full_sample,1555373186118,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,2,0,COCO_val2014_000000479099.jpg,4,just tree in the picture and nothing else,8,full_sample,1555373210641,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,3,0,COCO_val2014_000000436138.jpg,4,a single house with a belcony,6,full_sample,1555373228982,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,4,1,COCO_val2014_000000201004.jpg,4,a building that looks like the white house,8,full_sample,1555373246369,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,5,1,COCO_val2014_000000338826.jpg,4,a pic that has a flag pole,7,full_sample,1555373262251,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,6,1,COCO_val2014_000000436138.jpg,4,single house with belcony,4,full_sample,1555373274615,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,7,1,COCO_val2014_000000479099.jpg,4,just the tree and nothing else,6,full_sample,1555373288942,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,8,2,COCO_val2014_000000201004.jpg,4,white house,2,full_sample,1555373300104,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,9,2,COCO_val2014_000000338826.jpg,4,flag pole,2,full_sample,1555373310489,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,10,2,COCO_val2014_000000436138.jpg,4,single house belcony,3,full_sample,1555373324903,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,11,2,COCO_val2014_000000479099.jpg,4,just a tree,3,full_sample,1555373334516,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,12,3,COCO_val2014_000000338826.jpg,4,flag pole,2,full_sample,1555373345475,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,13,3,COCO_val2014_000000201004.jpg,4,white house,2,full_sample,1555373354594,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,14,3,COCO_val2014_000000479099.jpg,4,single house belcony,3,full_sample,1555373365152,distr0,False
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,15,3,COCO_val2014_000000436138.jpg,4,single house belcony,3,full_sample,1555373381575,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,16,4,COCO_val2014_000000201004.jpg,4,white house,2,full_sample,1555373391372,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,17,4,COCO_val2014_000000436138.jpg,4,single house belcony,3,full_sample,1555373405975,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,18,4,COCO_val2014_000000338826.jpg,4,flag pole,2,full_sample,1555373415271,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,19,4,COCO_val2014_000000479099.jpg,4,single tree,2,full_sample,1555373425361,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,20,5,COCO_val2014_000000338826.jpg,4,flag pole,2,full_sample,1555373435311,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,21,5,COCO_val2014_000000201004.jpg,4,white house,2,full_sample,1555373446127,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,22,5,COCO_val2014_000000479099.jpg,4,single tree,2,full_sample,1555373455571,target,True
+4831-98a48100-302d-41ce-ac49-08a3c2e88ea4,23,5,COCO_val2014_000000436138.jpg,4,belcony,1,full_sample,1555373464559,target,True

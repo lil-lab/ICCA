@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,0,0,COCO_val2014_000000549789.jpg,40,There is a person laying on the ground below the skier jumping in the air.,15,full_sample,1555373166426,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,1,0,COCO_val2014_000000195974.jpg,40,Snowboarder is wearing a red jacket.,6,full_sample,1555373189850,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,2,0,COCO_val2014_000000033958.jpg,40,Skier is wearing a blue jacket.,6,full_sample,1555373204327,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,3,0,COCO_val2014_000000196442.jpg,40,Skier looks like they're dressed in all black.  Skis are stretched out.,12,full_sample,1555373249256,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,4,1,COCO_val2014_000000033958.jpg,40,Skier has a blue jacket.,5,full_sample,1555373265497,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,5,1,COCO_val2014_000000195974.jpg,40,Skier has a red jacket.,5,full_sample,1555373278880,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,6,1,COCO_val2014_000000196442.jpg,40,Skier dressed in black with skis stretched out.,8,full_sample,1555373301848,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,7,1,COCO_val2014_000000549789.jpg,40,Person laying on the ground beneath skier.,7,full_sample,1555373323267,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,8,2,COCO_val2014_000000196442.jpg,40,Skier dressed in black with skies stretched out.,8,full_sample,1555373351024,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,9,2,COCO_val2014_000000195974.jpg,40,Snowboarder dressed in red.,4,full_sample,1555373375480,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,10,2,COCO_val2014_000000549789.jpg,40,Person laying on the ground beneath skier.,7,full_sample,1555373403407,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,11,2,COCO_val2014_000000033958.jpg,40,Skier dressed in blue.,4,full_sample,1555373417682,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,12,3,COCO_val2014_000000196442.jpg,40,Skier in black with skis stretched out.,7,full_sample,1555373454847,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,13,3,COCO_val2014_000000195974.jpg,40,Snowboarder dressed in red.,4,full_sample,1555373469456,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,14,3,COCO_val2014_000000033958.jpg,40,Snowboarder dressed in blue.,4,full_sample,1555373482500,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,15,3,COCO_val2014_000000549789.jpg,40,Person laying on ground beneath skier.,6,full_sample,1555373498103,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,16,4,COCO_val2014_000000033958.jpg,40,Skier dressed in blue.,4,full_sample,1555373509854,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,17,4,COCO_val2014_000000549789.jpg,40,Person laying on ground beneath skier.,6,full_sample,1555373524423,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,18,4,COCO_val2014_000000196442.jpg,40,Dressed in black with skis stretched out.,7,full_sample,1555373541309,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,19,4,COCO_val2014_000000195974.jpg,40,Dressed in red.,3,full_sample,1555373551896,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,20,5,COCO_val2014_000000033958.jpg,40,Dressed in blue.,3,full_sample,1555373561785,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,21,5,COCO_val2014_000000549789.jpg,40,Person laying beneath.,3,full_sample,1555373577656,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,22,5,COCO_val2014_000000195974.jpg,40,Dressed in red.,3,full_sample,1555373588476,target,True
+5669-3ed75614-b025-42de-9d64-9c58dfaf1267,23,5,COCO_val2014_000000196442.jpg,40,Dressed in black with skis stretched out.,7,full_sample,1555373603679,target,True

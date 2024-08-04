@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,0,0,COCO_val2014_000000087912.jpg,1,white bus,2,full_sample,1555372973780,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,1,0,COCO_val2014_000000335119.jpg,1,bus behind a fence,4,full_sample,1555372990346,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,2,0,COCO_val2014_000000376677.jpg,1,not a bus,3,full_sample,1555373006072,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,3,0,COCO_val2014_000000579036.jpg,1,red bus,2,full_sample,1555373016623,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,4,1,COCO_val2014_000000335119.jpg,1,bus behind a fence,4,full_sample,1555373032476,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,5,1,COCO_val2014_000000579036.jpg,1,red bus,2,full_sample,1555373041937,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,6,1,COCO_val2014_000000087912.jpg,1,white bus,2,full_sample,1555373051640,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,7,1,COCO_val2014_000000376677.jpg,1,not a bus,3,full_sample,1555373063146,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,8,2,COCO_val2014_000000579036.jpg,1,red bus,2,full_sample,1555373073738,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,9,2,COCO_val2014_000000335119.jpg,1,behind a fence,3,full_sample,1555373086530,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,10,2,COCO_val2014_000000087912.jpg,1,white,1,full_sample,1555373096369,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,11,2,COCO_val2014_000000376677.jpg,1,not a bus,3,full_sample,1555373107674,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,12,3,COCO_val2014_000000087912.jpg,1,white,1,full_sample,1555373118408,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,13,3,COCO_val2014_000000376677.jpg,1,not a bus,3,full_sample,1555373129291,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,14,3,COCO_val2014_000000579036.jpg,1,red,1,full_sample,1555373137675,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,15,3,COCO_val2014_000000335119.jpg,1,fence,1,full_sample,1555373147664,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,16,4,COCO_val2014_000000579036.jpg,1,red,1,full_sample,1555373157152,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,17,4,COCO_val2014_000000087912.jpg,1,white,1,full_sample,1555373167142,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,18,4,COCO_val2014_000000335119.jpg,1,fence,1,full_sample,1555373177099,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,19,4,COCO_val2014_000000376677.jpg,1,not a bus,3,full_sample,1555373188729,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,20,5,COCO_val2014_000000579036.jpg,1,red,1,full_sample,1555373198232,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,21,5,COCO_val2014_000000087912.jpg,1,white,1,full_sample,1555373207020,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,22,5,COCO_val2014_000000335119.jpg,1,fence,1,full_sample,1555373215915,target,True
+2740-3a3091eb-b0ca-4ba2-8a33-8badb85efc06,23,5,COCO_val2014_000000376677.jpg,1,not a bus,3,full_sample,1555373225879,target,True

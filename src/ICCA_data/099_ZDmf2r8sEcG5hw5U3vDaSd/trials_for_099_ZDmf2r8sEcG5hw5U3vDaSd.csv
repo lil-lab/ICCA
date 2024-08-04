@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,0,0,COCO_val2014_000000515792.jpg,99,man in white shorts playing frisbee,6,full_sample,1556316707585,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,1,0,COCO_val2014_000000289620.jpg,99,two guys playing paddle,4,full_sample,1556316727260,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,2,0,COCO_val2014_000000536416.jpg,99,ladies learning to surf,4,full_sample,1556316752150,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,3,0,COCO_val2014_000000566049.jpg,99,lady holding yellow frisbee,4,full_sample,1556316772934,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,4,1,COCO_val2014_000000515792.jpg,99,white shorts,2,full_sample,1556316790239,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,5,1,COCO_val2014_000000289620.jpg,99,guys playing paddle,3,full_sample,1556316807638,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,6,1,COCO_val2014_000000566049.jpg,99,yellow frisbee,2,full_sample,1556316820344,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,7,1,COCO_val2014_000000536416.jpg,99,surf gals,2,full_sample,1556316832356,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,8,2,COCO_val2014_000000289620.jpg,99,paddle guys,2,full_sample,1556316846594,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,9,2,COCO_val2014_000000515792.jpg,99,white shorts,2,full_sample,1556316857905,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,10,2,COCO_val2014_000000536416.jpg,99,surf gals,2,full_sample,1556316870918,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,11,2,COCO_val2014_000000566049.jpg,99,yellow frisbee,2,full_sample,1556316884252,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,12,3,COCO_val2014_000000536416.jpg,99,surf gals,2,full_sample,1556316894866,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,13,3,COCO_val2014_000000289620.jpg,99,paddle guys,2,full_sample,1556316907282,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,14,3,COCO_val2014_000000566049.jpg,99,yellow frisbee,2,full_sample,1556316921396,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,15,3,COCO_val2014_000000515792.jpg,99,white shorts,2,full_sample,1556316932065,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,16,4,COCO_val2014_000000536416.jpg,99,surf gals,2,full_sample,1556316941768,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,17,4,COCO_val2014_000000515792.jpg,99,white shorts,2,full_sample,1556316954206,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,18,4,COCO_val2014_000000289620.jpg,99,paddle guys,2,full_sample,1556316965086,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,19,4,COCO_val2014_000000566049.jpg,99,yellow frisbee,2,full_sample,1556316977451,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,20,5,COCO_val2014_000000289620.jpg,99,paddle guys,2,full_sample,1556316988783,distr2,False
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,21,5,COCO_val2014_000000515792.jpg,99,white shorts,2,full_sample,1556317004951,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,22,5,COCO_val2014_000000566049.jpg,99,yellow frisbee,2,full_sample,1556317017415,target,True
+7231-af65094b-f170-4dad-b67d-66a1cb59c2d4,23,5,COCO_val2014_000000536416.jpg,99,surf gals,2,full_sample,1556317027741,target,True

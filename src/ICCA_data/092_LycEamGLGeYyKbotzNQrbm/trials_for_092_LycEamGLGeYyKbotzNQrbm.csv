@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,0,0,COCO_val2014_000000281500.jpg,92,the women with the white bow ready to swing,9,full_sample,1556323074551,distr1,False
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,1,0,COCO_val2014_000000428254.jpg,92,The man facing forward who is hitting the ball,9,full_sample,1556323101228,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,2,0,COCO_val2014_000000194903.jpg,92,The woman in the read shirt in a squat position,10,full_sample,1556323124238,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,3,0,COCO_val2014_000000567276.jpg,92,the woman with one feet in the air and the ball is coming towards her,15,full_sample,1556323153784,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,4,1,COCO_val2014_000000194903.jpg,92,"the red shirt woman in squat positio, position",8,full_sample,1556323169682,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,5,1,COCO_val2014_000000428254.jpg,92,the man with the cap turned to the back,9,full_sample,1556323185781,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,6,1,COCO_val2014_000000281500.jpg,92,"the woman with white shirt, white sweat band and hair in a bow",13,full_sample,1556323215823,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,7,1,COCO_val2014_000000567276.jpg,92,the red cap girl,4,full_sample,1556323235046,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,8,2,COCO_val2014_000000194903.jpg,92,squat girl,2,full_sample,1556323249194,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,9,2,COCO_val2014_000000567276.jpg,92,red cap girl,3,full_sample,1556323260737,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,10,2,COCO_val2014_000000428254.jpg,92,man with white cap,4,full_sample,1556323275387,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,11,2,COCO_val2014_000000281500.jpg,92,woman with white hair bow,5,full_sample,1556323290432,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,12,3,COCO_val2014_000000428254.jpg,92,man with white cap,4,full_sample,1556323309462,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,13,3,COCO_val2014_000000567276.jpg,92,red cap,2,full_sample,1556323319871,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,14,3,COCO_val2014_000000194903.jpg,92,squat girl,2,full_sample,1556323329885,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,15,3,COCO_val2014_000000281500.jpg,92,white bow,2,full_sample,1556323340382,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,16,4,COCO_val2014_000000194903.jpg,92,squat girl,2,full_sample,1556323351532,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,17,4,COCO_val2014_000000567276.jpg,92,red cap,2,full_sample,1556323360760,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,18,4,COCO_val2014_000000428254.jpg,92,man with white cap,4,full_sample,1556323371570,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,19,4,COCO_val2014_000000281500.jpg,92,white bow,2,full_sample,1556323383017,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,20,5,COCO_val2014_000000567276.jpg,92,red cap,2,full_sample,1556323393097,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,21,5,COCO_val2014_000000281500.jpg,92,white bow,2,full_sample,1556323402834,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,22,5,COCO_val2014_000000194903.jpg,92,squat girl,2,full_sample,1556323412966,target,True
+0525-6aa6a04d-370d-4465-8024-fb0fb373fac0,23,5,COCO_val2014_000000428254.jpg,92,white cap boy,3,full_sample,1556323423054,target,True

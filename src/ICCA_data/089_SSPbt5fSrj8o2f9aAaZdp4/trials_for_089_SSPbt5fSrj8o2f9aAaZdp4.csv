@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,0,0,COCO_val2014_000000476258.jpg,89,has a yellow and black outfit,6,pilot0,1555354134611,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,1,0,COCO_val2014_000000251857.jpg,89,white pants with a red stripe,6,pilot0,1555354152904,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,2,0,COCO_val2014_000000017003.jpg,89,black outfit with a hat and glasses skating towards the right,11,pilot0,1555354182986,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,3,0,COCO_val2014_000000135785.jpg,89,doing a kick alone in the scene,7,pilot0,1555354206988,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,4,1,COCO_val2014_000000251857.jpg,89,pants with red stripe,4,pilot0,1555354219384,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,5,1,COCO_val2014_000000476258.jpg,89,yellow and black,3,pilot0,1555354229608,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,6,1,COCO_val2014_000000135785.jpg,89,kick alone,2,pilot0,1555354241808,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,7,1,COCO_val2014_000000017003.jpg,89,hat right,2,pilot0,1555354257894,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,8,2,COCO_val2014_000000476258.jpg,89,yellow,1,pilot0,1555354268388,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,9,2,COCO_val2014_000000251857.jpg,89,red,1,pilot0,1555354278198,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,10,2,COCO_val2014_000000135785.jpg,89,kick,1,pilot0,1555354293387,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,11,2,COCO_val2014_000000017003.jpg,89,hat,1,pilot0,1555354305394,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,12,3,COCO_val2014_000000135785.jpg,89,kick alone,2,pilot0,1555354316994,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,13,3,COCO_val2014_000000017003.jpg,89,hat,1,pilot0,1555354328588,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,14,3,COCO_val2014_000000251857.jpg,89,red,1,pilot0,1555354338714,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,15,3,COCO_val2014_000000476258.jpg,89,yellow,1,pilot0,1555354347244,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,16,4,COCO_val2014_000000476258.jpg,89,yellow,1,pilot0,1555354355836,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,17,4,COCO_val2014_000000135785.jpg,89,kick alone,2,pilot0,1555354366160,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,18,4,COCO_val2014_000000251857.jpg,89,red,1,pilot0,1555354374426,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,19,4,COCO_val2014_000000017003.jpg,89,hat,1,pilot0,1555354384808,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,20,5,COCO_val2014_000000251857.jpg,89,red,1,pilot0,1555354392912,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,21,5,COCO_val2014_000000135785.jpg,89,kick alone,2,pilot0,1555354401587,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,22,5,COCO_val2014_000000476258.jpg,89,yellow,1,pilot0,1555354410226,target,True
+2575-894b8bf3-1a9e-40c8-acd2-9b3b73641f4a,23,5,COCO_val2014_000000017003.jpg,89,hat,1,pilot0,1555354419700,target,True

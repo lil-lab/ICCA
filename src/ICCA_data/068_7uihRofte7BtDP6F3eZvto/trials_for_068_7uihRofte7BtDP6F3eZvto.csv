@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,0,0,COCO_val2014_000000391269.jpg,68,"the photo has a blue-ish painting on the top right side, above the white colored couch",16,full_sample,1556324106702,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,1,0,COCO_val2014_000000468162.jpg,68,a man is sleeping on the brown couch,8,full_sample,1556324126820,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,2,0,COCO_val2014_000000535312.jpg,68,"this photo contains 4 small photos, one has a bike",10,full_sample,1556324162427,distr1,False
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,3,0,COCO_val2014_000000427965.jpg,68,"the room is very wood-colored, there is a ceiling fan that spins around",13,full_sample,1556324191059,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,4,1,COCO_val2014_000000468162.jpg,68,a man is sleeping on the brown couch,8,full_sample,1556324203892,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,5,1,COCO_val2014_000000427965.jpg,68,"the room is very wood colored, with the spinning ceiling fan",11,full_sample,1556324221147,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,6,1,COCO_val2014_000000391269.jpg,68,"there is a blue painting in the right side of the photo, above the white sofa",16,full_sample,1556324241756,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,7,1,COCO_val2014_000000535312.jpg,68,"there are green baskets, as well as bicycle",8,full_sample,1556324270405,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,8,2,COCO_val2014_000000391269.jpg,68,there is a blue painting above a white sofa,9,full_sample,1556324285156,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,9,2,COCO_val2014_000000535312.jpg,68,there are green baskets and a bicycle,7,full_sample,1556324300460,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,10,2,COCO_val2014_000000468162.jpg,68,a man is sleeping on a brown couch,8,full_sample,1556324312477,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,11,2,COCO_val2014_000000427965.jpg,68,wood colored room with spinning ceiling fan,7,full_sample,1556324326031,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,12,3,COCO_val2014_000000535312.jpg,68,green baskets and bicycle,4,full_sample,1556324339955,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,13,3,COCO_val2014_000000427965.jpg,68,brown colored room with ceiling fan,6,full_sample,1556324351503,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,14,3,COCO_val2014_000000391269.jpg,68,blue painting on the right side above a white sofa,10,full_sample,1556324368149,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,15,3,COCO_val2014_000000468162.jpg,68,man sleeping on brown couch,5,full_sample,1556324379564,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,16,4,COCO_val2014_000000535312.jpg,68,green baskets and bicycle,4,full_sample,1556324390876,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,17,4,COCO_val2014_000000468162.jpg,68,man sleeping on brown couch,5,full_sample,1556324401542,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,18,4,COCO_val2014_000000427965.jpg,68,wood colored room with ceiling fan,6,full_sample,1556324416149,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,19,4,COCO_val2014_000000391269.jpg,68,blue painting on right side above white sofa,8,full_sample,1556324433277,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,20,5,COCO_val2014_000000535312.jpg,68,green basket and bicycle,4,full_sample,1556324446693,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,21,5,COCO_val2014_000000427965.jpg,68,wood colored room with ceiling fan,6,full_sample,1556324459709,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,22,5,COCO_val2014_000000468162.jpg,68,man sleeping on brown couch,5,full_sample,1556324470876,target,True
+9160-21339a4b-d804-4a69-98eb-53b1790e7986,23,5,COCO_val2014_000000391269.jpg,68,blue painting above white sofa,5,full_sample,1556324482725,target,True

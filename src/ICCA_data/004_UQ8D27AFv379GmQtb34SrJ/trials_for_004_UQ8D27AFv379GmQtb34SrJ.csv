@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,0,0,COCO_val2014_000000201004.jpg,4,hug building lots of trees in front,7,full_sample,1555372936233,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,1,0,COCO_val2014_000000479099.jpg,4,one sad little tree,4,full_sample,1555372958404,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,2,0,COCO_val2014_000000436138.jpg,4,house and bench,3,full_sample,1555372978277,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,3,0,COCO_val2014_000000338826.jpg,4,firehouse,1,full_sample,1555372989712,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,4,1,COCO_val2014_000000436138.jpg,4,brown house,2,full_sample,1555373007589,distr1,False
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,5,1,COCO_val2014_000000479099.jpg,4,1 tree in the middle of the screen,8,full_sample,1555373026686,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,6,1,COCO_val2014_000000338826.jpg,4,firehouse,1,full_sample,1555373037596,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,7,1,COCO_val2014_000000201004.jpg,4,college,1,full_sample,1555373048205,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,8,2,COCO_val2014_000000479099.jpg,4,1 tree in the middle of the screen,8,full_sample,1555373064774,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,9,2,COCO_val2014_000000201004.jpg,4,college,1,full_sample,1555373074615,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,10,2,COCO_val2014_000000436138.jpg,4,the house,2,full_sample,1555373085852,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,11,2,COCO_val2014_000000338826.jpg,4,firehouse,1,full_sample,1555373095408,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,12,3,COCO_val2014_000000436138.jpg,4,house,1,full_sample,1555373105293,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,13,3,COCO_val2014_000000479099.jpg,4,1 tree,2,full_sample,1555373114872,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,14,3,COCO_val2014_000000201004.jpg,4,college,1,full_sample,1555373123855,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,15,3,COCO_val2014_000000338826.jpg,4,firehouse,1,full_sample,1555373134400,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,16,4,COCO_val2014_000000436138.jpg,4,house,1,full_sample,1555373144067,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,17,4,COCO_val2014_000000201004.jpg,4,college,1,full_sample,1555373156111,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,18,4,COCO_val2014_000000338826.jpg,4,firehouse,1,full_sample,1555373167960,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,19,4,COCO_val2014_000000479099.jpg,4,1 tree,2,full_sample,1555373179617,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,20,5,COCO_val2014_000000436138.jpg,4,house,1,full_sample,1555373189877,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,21,5,COCO_val2014_000000338826.jpg,4,firehouse,1,full_sample,1555373201203,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,22,5,COCO_val2014_000000479099.jpg,4,1 tree,2,full_sample,1555373211474,target,True
+6662-944feb90-3dcd-434a-9748-4a71417bb4d9,23,5,COCO_val2014_000000201004.jpg,4,college,1,full_sample,1555373221396,target,True

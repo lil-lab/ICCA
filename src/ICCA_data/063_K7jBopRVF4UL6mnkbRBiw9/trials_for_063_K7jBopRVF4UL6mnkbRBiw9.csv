@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,0,0,COCO_val2014_000000198625.jpg,63,person with purple shirt and yellow striped tie.,8,full_sample,1556315209155,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,1,0,COCO_val2014_000000572850.jpg,63,person with black coat and square tie.,7,full_sample,1556315242671,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,2,0,COCO_val2014_000000093670.jpg,63,perosn with brown coat and brown tie.,7,full_sample,1556315268789,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,3,0,COCO_val2014_000000134807.jpg,63,person with yellow shirt and a tag.,7,full_sample,1556315294446,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,4,1,COCO_val2014_000000572850.jpg,63,black coat and square tie.,5,full_sample,1556315313309,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,5,1,COCO_val2014_000000198625.jpg,63,purple coat yellow striped tie.,5,full_sample,1556315337506,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,6,1,COCO_val2014_000000134807.jpg,63,yellow shirt with tag.,4,full_sample,1556315354932,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,7,1,COCO_val2014_000000093670.jpg,63,brown shirt and brown tie.,5,full_sample,1556315375915,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,8,2,COCO_val2014_000000134807.jpg,63,yellow shirt and tag.,4,full_sample,1556315392352,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,9,2,COCO_val2014_000000572850.jpg,63,black coat with square tie.,5,full_sample,1556315410392,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,10,2,COCO_val2014_000000198625.jpg,63,purple shirt yellow striped tie.,5,full_sample,1556315432757,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,11,2,COCO_val2014_000000093670.jpg,63,brown shirt and brown tie.,5,full_sample,1556315447234,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,12,3,COCO_val2014_000000134807.jpg,63,yellow shirt with tag.,4,full_sample,1556315460001,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,13,3,COCO_val2014_000000093670.jpg,63,brown shirt with brown tie.,5,full_sample,1556315475964,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,14,3,COCO_val2014_000000198625.jpg,63,purple shirt with yellow tie.,5,full_sample,1556315493118,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,15,3,COCO_val2014_000000572850.jpg,63,black coat with square tie.,5,full_sample,1556315507569,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,16,4,COCO_val2014_000000134807.jpg,63,yellow shirt with tag.,4,full_sample,1556315523812,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,17,4,COCO_val2014_000000572850.jpg,63,black coat with square tie.,5,full_sample,1556315540860,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,18,4,COCO_val2014_000000198625.jpg,63,purple shirt with yellow tie.,5,full_sample,1556315560163,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,19,4,COCO_val2014_000000093670.jpg,63,brown shirt with brown tie.,5,full_sample,1556315584042,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,20,5,COCO_val2014_000000572850.jpg,63,black coat with square tie.,5,full_sample,1556315599958,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,21,5,COCO_val2014_000000134807.jpg,63,yellow shirt,2,full_sample,1556315616715,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,22,5,COCO_val2014_000000198625.jpg,63,purple shirt,2,full_sample,1556315633258,target,True
+9919-601cb97e-c811-47cf-8ce8-9410ad746e4a,23,5,COCO_val2014_000000093670.jpg,63,brown shirt with brown tie.,5,full_sample,1556315648714,target,True

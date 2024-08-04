@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,0,0,COCO_val2014_000000391199.jpg,70,Man in a hat on a phone,7,full_sample,1556317543115,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,1,0,COCO_val2014_000000297578.jpg,70,man smoking,2,full_sample,1556317555389,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,2,0,COCO_val2014_000000386089.jpg,70,man in glasses no hat,5,full_sample,1556317577741,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,3,0,COCO_val2014_000000059567.jpg,70,black and white man,4,full_sample,1556317593984,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,4,1,COCO_val2014_000000386089.jpg,70,glasses no hat,3,full_sample,1556317607236,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,5,1,COCO_val2014_000000059567.jpg,70,black and white,3,full_sample,1556317620746,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,6,1,COCO_val2014_000000391199.jpg,70,hat,1,full_sample,1556317630414,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,7,1,COCO_val2014_000000297578.jpg,70,smoking,1,full_sample,1556317640901,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,8,2,COCO_val2014_000000386089.jpg,70,glasses no hat,3,full_sample,1556317655443,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,9,2,COCO_val2014_000000059567.jpg,70,black and white,3,full_sample,1556317667666,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,10,2,COCO_val2014_000000391199.jpg,70,hat,1,full_sample,1556317677074,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,11,2,COCO_val2014_000000297578.jpg,70,smoking,1,full_sample,1556317689551,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,12,3,COCO_val2014_000000386089.jpg,70,glasses no hat,3,full_sample,1556317700824,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,13,3,COCO_val2014_000000297578.jpg,70,smoking,1,full_sample,1556317710856,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,14,3,COCO_val2014_000000059567.jpg,70,black and white,3,full_sample,1556317721530,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,15,3,COCO_val2014_000000391199.jpg,70,hat,1,full_sample,1556317731093,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,16,4,COCO_val2014_000000297578.jpg,70,smoking,1,full_sample,1556317742301,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,17,4,COCO_val2014_000000386089.jpg,70,glasses no hat,3,full_sample,1556317762718,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,18,4,COCO_val2014_000000059567.jpg,70,black and white,3,full_sample,1556317777842,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,19,4,COCO_val2014_000000391199.jpg,70,hat,1,full_sample,1556317788784,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,20,5,COCO_val2014_000000297578.jpg,70,smoking,1,full_sample,1556317800915,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,21,5,COCO_val2014_000000391199.jpg,70,hat,1,full_sample,1556317810898,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,22,5,COCO_val2014_000000386089.jpg,70,glasses no hat,3,full_sample,1556317824702,target,True
+5200-ecd26486-833f-4eef-bb12-04a51771a46c,23,5,COCO_val2014_000000059567.jpg,70,black and white,3,full_sample,1556317839934,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,0,0,COCO_val2014_000000334417.jpg,0,A grown man is in a tuxedo is eating something,10,full_sample,1556320639231,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,1,0,COCO_val2014_000000473237.jpg,0,A black girl is eating pizza,6,full_sample,1556320657748,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,2,0,COCO_val2014_000000553667.jpg,0,A black girl with red earrings is eating a sandwich with her eyes almost closed,15,full_sample,1556320710918,distr2,False
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,3,0,COCO_val2014_000000359105.jpg,0,A little girl is eating a cupcake and looking at the camera,12,full_sample,1556320737250,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,4,1,COCO_val2014_000000334417.jpg,0,Grown man in tuxedo eating something,6,full_sample,1556320754015,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,5,1,COCO_val2014_000000359105.jpg,0,little girl eating a cupcake,5,full_sample,1556320770265,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,6,1,COCO_val2014_000000473237.jpg,0,little girl eating a square piece of pizza,8,full_sample,1556320795614,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,7,1,COCO_val2014_000000553667.jpg,0,"girl with red earrings eating a sandwich or hotdog, eyes almost closed",12,full_sample,1556320829300,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,8,2,COCO_val2014_000000334417.jpg,0,grown man in tuxedo eating,5,full_sample,1556320844544,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,9,2,COCO_val2014_000000359105.jpg,0,little girl eating a cupcake,5,full_sample,1556320856597,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,10,2,COCO_val2014_000000473237.jpg,0,little girl eating a pizza,5,full_sample,1556320868482,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,11,2,COCO_val2014_000000553667.jpg,0,little girl with red earrings,5,full_sample,1556320886537,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,12,3,COCO_val2014_000000359105.jpg,0,girl eating cupcake,3,full_sample,1556320898351,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,13,3,COCO_val2014_000000473237.jpg,0,girl eating pizza,3,full_sample,1556320907862,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,14,3,COCO_val2014_000000553667.jpg,0,girl with red earrings,4,full_sample,1556320922985,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,15,3,COCO_val2014_000000334417.jpg,0,man in tuxedo,3,full_sample,1556320934527,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,16,4,COCO_val2014_000000473237.jpg,0,girl eating pizza,3,full_sample,1556320945625,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,17,4,COCO_val2014_000000359105.jpg,0,girl eating cupcake,3,full_sample,1556320958196,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,18,4,COCO_val2014_000000334417.jpg,0,man in tuxedo,3,full_sample,1556320969662,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,19,4,COCO_val2014_000000553667.jpg,0,girl with red earrings,4,full_sample,1556320981412,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,20,5,COCO_val2014_000000359105.jpg,0,girl eating cupcake,3,full_sample,1556320992322,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,21,5,COCO_val2014_000000473237.jpg,0,girl eating pizza,3,full_sample,1556321003599,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,22,5,COCO_val2014_000000553667.jpg,0,girl with red earrings,4,full_sample,1556321014920,target,True
+5807-a6a4d6a1-cb42-48bc-823e-e4d7efc838aa,23,5,COCO_val2014_000000334417.jpg,0,man in tuxedo,3,full_sample,1556321028199,target,True

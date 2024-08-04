@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,0,0,COCO_val2014_000000212545.jpg,77,the little kid in a sheriff hat with a dog,10,full_sample,1555374866602,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,1,0,COCO_val2014_000000468043.jpg,77,the little boy on the sheep with the water in the back,12,full_sample,1555374885912,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,2,0,COCO_val2014_000000318888.jpg,77,the older man with the little puppy,7,full_sample,1555374907174,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,3,0,COCO_val2014_000000193401.jpg,77,the person with the red jacket and the mini horse,10,full_sample,1555374926688,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,4,1,COCO_val2014_000000318888.jpg,77,the old man and the puppy,6,full_sample,1555374939256,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,5,1,COCO_val2014_000000193401.jpg,77,the red jacket and mini horse,6,full_sample,1555374952018,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,6,1,COCO_val2014_000000468043.jpg,77,the little boy and the sheep,6,full_sample,1555374964878,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,7,1,COCO_val2014_000000212545.jpg,77,the child in the sheriff hat and the dog,9,full_sample,1555374978860,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,8,2,COCO_val2014_000000318888.jpg,77,the older man and the puppy,6,full_sample,1555374991615,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,9,2,COCO_val2014_000000468043.jpg,77,the little boy and the sheep,6,full_sample,1555375003436,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,10,2,COCO_val2014_000000212545.jpg,77,the child in the sheriff hat with the dog,9,full_sample,1555375019866,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,11,2,COCO_val2014_000000193401.jpg,77,the red jacket and the mini horse,7,full_sample,1555375035228,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,12,3,COCO_val2014_000000318888.jpg,77,the old man and the puppy,6,full_sample,1555375046292,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,13,3,COCO_val2014_000000212545.jpg,77,the child in the sheriff hat with the dog,9,full_sample,1555375061281,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,14,3,COCO_val2014_000000193401.jpg,77,the red jacket and the mini horse,7,full_sample,1555375072978,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,15,3,COCO_val2014_000000468043.jpg,77,the little boy and the sheep,6,full_sample,1555375084778,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,16,4,COCO_val2014_000000318888.jpg,77,the old man and the puppy,6,full_sample,1555375095312,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,17,4,COCO_val2014_000000212545.jpg,77,the child in the sheriff hat and the dog,9,full_sample,1555375110149,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,18,4,COCO_val2014_000000193401.jpg,77,the red jacket and the mini horse,7,full_sample,1555375122737,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,19,4,COCO_val2014_000000468043.jpg,77,the boy and the sheep,5,full_sample,1555375131826,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,20,5,COCO_val2014_000000193401.jpg,77,the red jacket and the mini horse,7,full_sample,1555375143404,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,21,5,COCO_val2014_000000212545.jpg,77,the child in the sheriff hat and the dog,9,full_sample,1555375156045,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,22,5,COCO_val2014_000000318888.jpg,77,the old man and the puppy,6,full_sample,1555375166375,target,True
+8922-46bdf5a5-05bd-41b2-90a2-8ea4b3a337f9,23,5,COCO_val2014_000000468043.jpg,77,the boy and the sheep,5,full_sample,1555375186034,target,True

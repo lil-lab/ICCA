@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,0,0,COCO_val2014_000000140076.jpg,35,Click on the one with the painting.,7,full_sample,1556316094859,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,1,0,COCO_val2014_000000290477.jpg,35,Click on the one with the large green plant.,9,full_sample,1556316111767,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,2,0,COCO_val2014_000000213224.jpg,35,Click on the one with the two bouquets in vases.,10,full_sample,1556316130088,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,3,0,COCO_val2014_000000166401.jpg,35,Click on the bathroom.,4,full_sample,1556316141261,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,4,1,COCO_val2014_000000213224.jpg,35,Two bouquets in vases.,4,full_sample,1556316155699,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,5,1,COCO_val2014_000000290477.jpg,35,Large green plant.,3,full_sample,1556316166555,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,6,1,COCO_val2014_000000166401.jpg,35,Bathroom.,1,full_sample,1556316180545,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,7,1,COCO_val2014_000000140076.jpg,35,Painting on wall.,3,full_sample,1556316201270,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,8,2,COCO_val2014_000000166401.jpg,35,Bathroom.,1,full_sample,1556316210448,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,9,2,COCO_val2014_000000290477.jpg,35,Large green plant.,3,full_sample,1556316224540,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,10,2,COCO_val2014_000000140076.jpg,35,Painting on wall.,3,full_sample,1556316234348,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,11,2,COCO_val2014_000000213224.jpg,35,Two bouquets in vases.,4,full_sample,1556316246591,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,12,3,COCO_val2014_000000290477.jpg,35,Large green plant.,3,full_sample,1556316257844,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,13,3,COCO_val2014_000000213224.jpg,35,Two bouquets in vases.,4,full_sample,1556316268331,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,14,3,COCO_val2014_000000140076.jpg,35,Painting on wall.,3,full_sample,1556316277384,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,15,3,COCO_val2014_000000166401.jpg,35,Bathroom.,1,full_sample,1556316286066,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,16,4,COCO_val2014_000000140076.jpg,35,Painting on wall.,3,full_sample,1556316295843,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,17,4,COCO_val2014_000000166401.jpg,35,Bathroom.,1,full_sample,1556316304131,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,18,4,COCO_val2014_000000290477.jpg,35,Large green plant.,3,full_sample,1556316313970,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,19,4,COCO_val2014_000000213224.jpg,35,Two bouquets in vases.,4,full_sample,1556316325899,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,20,5,COCO_val2014_000000166401.jpg,35,Bathroom.,1,full_sample,1556316338296,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,21,5,COCO_val2014_000000213224.jpg,35,Two bouquets in vases.,4,full_sample,1556316350052,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,22,5,COCO_val2014_000000140076.jpg,35,Painting on wall.,3,full_sample,1556316360161,target,True
+0316-f782f20f-6b40-4846-b1f7-e5e8447b87c9,23,5,COCO_val2014_000000290477.jpg,35,Large green plant.,3,full_sample,1556316369309,target,True

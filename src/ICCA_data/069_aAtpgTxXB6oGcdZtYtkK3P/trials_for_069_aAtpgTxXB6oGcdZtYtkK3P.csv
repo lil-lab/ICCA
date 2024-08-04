@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,0,0,COCO_val2014_000000322987.jpg,69,The bear has on a pink dress and is sitting on a beige couch.,14,full_sample,1555375089519,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,1,0,COCO_val2014_000000516766.jpg,69,It is a white bear with a small brown bear attached to it wiht a blue ribbon,17,full_sample,1555375121855,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,2,0,COCO_val2014_000000190700.jpg,69,Brown bear bearing a red hat and red and blue striped scarf.,12,full_sample,1555375151023,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,3,0,COCO_val2014_000000475330.jpg,69,One bear is dressed as a pumpkin and the other bear is dressed as a turkey,16,full_sample,1555375181099,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,4,1,COCO_val2014_000000322987.jpg,69,Bear has on a pink dress with pink bow.,9,full_sample,1555375204267,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,5,1,COCO_val2014_000000475330.jpg,69,Two bears dressed up as a pumpkin and turkey.,9,full_sample,1555375225071,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,6,1,COCO_val2014_000000516766.jpg,69,White bear with small brown bear and blue ribbon.,9,full_sample,1555375247102,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,7,1,COCO_val2014_000000190700.jpg,69,brown bear wearing red hat and red and blue scarf,10,full_sample,1555375275503,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,8,2,COCO_val2014_000000322987.jpg,69,Bear wearing pink dress with pink bow.,7,full_sample,1555375297131,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,9,2,COCO_val2014_000000475330.jpg,69,two bears dressed as a pumpkin and turkey.,8,full_sample,1555375317246,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,10,2,COCO_val2014_000000190700.jpg,69,bear in red hat and red and blue scarf,9,full_sample,1555375335633,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,11,2,COCO_val2014_000000516766.jpg,69,white bear with blue ribbon and small brown bear.,9,full_sample,1555375355360,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,12,3,COCO_val2014_000000475330.jpg,69,two bears dressed as pumpkin and tukey.,7,full_sample,1555375382379,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,13,3,COCO_val2014_000000322987.jpg,69,bear wearing pink dress and ribbon,6,full_sample,1555375398500,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,14,3,COCO_val2014_000000190700.jpg,69,bear wearing red hat and red and blue scarf.,9,full_sample,1555375421514,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,15,3,COCO_val2014_000000516766.jpg,69,white wear wiht blue ribbon and small brown bear.,9,full_sample,1555375441124,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,16,4,COCO_val2014_000000475330.jpg,69,two bears dressed as pumpkin and turkey,7,full_sample,1555375461280,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,17,4,COCO_val2014_000000190700.jpg,69,bear weating red hat and blue and red scarf.,9,full_sample,1555375482905,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,18,4,COCO_val2014_000000322987.jpg,69,bear wearing pink dress and pink bow.,7,full_sample,1555375502462,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,19,4,COCO_val2014_000000516766.jpg,69,white bear with blue ribbon and small brown bear.,9,full_sample,1555375527732,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,20,5,COCO_val2014_000000322987.jpg,69,bear wearing pink dress and bow.,6,full_sample,1555375545967,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,21,5,COCO_val2014_000000190700.jpg,69,bear wearing red hat and red and blue scarf.,9,full_sample,1555375567705,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,22,5,COCO_val2014_000000516766.jpg,69,white bear with blue ribbon and small brown bear.,9,full_sample,1555375596471,target,True
+2088-b4bb52a2-3cd8-4303-85bf-ca3a90c6fd69,23,5,COCO_val2014_000000475330.jpg,69,two bears dressed as pumpkin and turkey,7,full_sample,1555375614545,target,True

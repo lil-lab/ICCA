@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,0,0,COCO_val2014_000000338826.jpg,4,It is a building with a small fire hydrant in front of a big pole,15,full_sample,1556317069042,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,1,0,COCO_val2014_000000436138.jpg,4,It is a building with a ladder going to the front door,12,full_sample,1556317118999,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,2,0,COCO_val2014_000000201004.jpg,4,It is a building that has like a big watchtower on the left,13,full_sample,1556317183595,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,3,0,COCO_val2014_000000479099.jpg,4,Basically a tree right in the middle may be the building behind,12,full_sample,1556317235978,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,4,1,COCO_val2014_000000338826.jpg,4,Building with the fire hydrant,5,full_sample,1556317257457,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,5,1,COCO_val2014_000000201004.jpg,4,Watchtower,1,full_sample,1556317279997,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,6,1,COCO_val2014_000000436138.jpg,4,Ladder,1,full_sample,1556317297390,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,7,1,COCO_val2014_000000479099.jpg,4,Tree in the middle,4,full_sample,1556317315258,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,8,2,COCO_val2014_000000201004.jpg,4,Watchtower,1,full_sample,1556317329590,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,9,2,COCO_val2014_000000436138.jpg,4,Ladder,1,full_sample,1556317342385,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,10,2,COCO_val2014_000000479099.jpg,4,Tree in the middle,4,full_sample,1556317368884,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,11,2,COCO_val2014_000000338826.jpg,4,Fire hydrant,2,full_sample,1556317386851,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,12,3,COCO_val2014_000000201004.jpg,4,Watchtower,1,full_sample,1556317400724,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,13,3,COCO_val2014_000000338826.jpg,4,Fire hydrant,2,full_sample,1556317414789,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,14,3,COCO_val2014_000000479099.jpg,4,Tree in the middle,4,full_sample,1556317430064,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,15,3,COCO_val2014_000000436138.jpg,4,Ladder,1,full_sample,1556317443256,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,16,4,COCO_val2014_000000338826.jpg,4,Fire hydrant,2,full_sample,1556317458671,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,17,4,COCO_val2014_000000479099.jpg,4,Tree in the middle,4,full_sample,1556317472958,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,18,4,COCO_val2014_000000201004.jpg,4,Watchtower,1,full_sample,1556317486298,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,19,4,COCO_val2014_000000436138.jpg,4,Ladder,1,full_sample,1556317498325,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,20,5,COCO_val2014_000000338826.jpg,4,Fire hydrant,2,full_sample,1556317514389,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,21,5,COCO_val2014_000000201004.jpg,4,Watchtower,1,full_sample,1556317527923,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,22,5,COCO_val2014_000000436138.jpg,4,Ladder,1,full_sample,1556317546084,target,True
+1006-8a964204-bce4-48de-9bb1-2933a4c017f7,23,5,COCO_val2014_000000479099.jpg,4,"Tree in the middle, good job",6,full_sample,1556317567802,target,True

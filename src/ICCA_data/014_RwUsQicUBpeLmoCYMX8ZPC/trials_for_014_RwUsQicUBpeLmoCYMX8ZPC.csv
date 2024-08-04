@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,0,0,COCO_val2014_000000050962.jpg,14,guy with yellow shirt,4,full_sample,1556314735223,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,1,0,COCO_val2014_000000092644.jpg,14,picture with most people,4,full_sample,1556314760034,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,2,0,COCO_val2014_000000435308.jpg,14,guy might be doing a flip,6,full_sample,1556314779923,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,3,0,COCO_val2014_000000111909.jpg,14,guy off the boat has a blue lifejacket thing,9,full_sample,1556314805484,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,4,1,COCO_val2014_000000092644.jpg,14,picture with the most people,5,full_sample,1556314829765,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,5,1,COCO_val2014_000000050962.jpg,14,yellow shirt,2,full_sample,1556314844377,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,6,1,COCO_val2014_000000435308.jpg,14,doing a flip,3,full_sample,1556314856211,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,7,1,COCO_val2014_000000111909.jpg,14,blue lifejacket,2,full_sample,1556314865665,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,8,2,COCO_val2014_000000435308.jpg,14,half flip,2,full_sample,1556314876051,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,9,2,COCO_val2014_000000092644.jpg,14,most people,2,full_sample,1556314886547,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,10,2,COCO_val2014_000000111909.jpg,14,blue lifejacket,2,full_sample,1556314897397,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,11,2,COCO_val2014_000000050962.jpg,14,yellow shirt,2,full_sample,1556314909135,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,12,3,COCO_val2014_000000092644.jpg,14,most people,2,full_sample,1556314918094,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,13,3,COCO_val2014_000000050962.jpg,14,yellow shirt,2,full_sample,1556314927930,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,14,3,COCO_val2014_000000435308.jpg,14,flip,1,full_sample,1556314940573,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,15,3,COCO_val2014_000000111909.jpg,14,lifejacket,1,full_sample,1556314953196,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,16,4,COCO_val2014_000000435308.jpg,14,flipping,1,full_sample,1556314965661,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,17,4,COCO_val2014_000000050962.jpg,14,yellow,1,full_sample,1556314975931,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,18,4,COCO_val2014_000000092644.jpg,14,most people,2,full_sample,1556314990061,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,19,4,COCO_val2014_000000111909.jpg,14,blue jacket,2,full_sample,1556315003362,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,20,5,COCO_val2014_000000435308.jpg,14,flipping,1,full_sample,1556315013966,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,21,5,COCO_val2014_000000111909.jpg,14,blue guy,2,full_sample,1556315027870,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,22,5,COCO_val2014_000000050962.jpg,14,yellow guy,2,full_sample,1556315036978,target,True
+7149-868b1541-0361-485e-9d28-6f96b5f019aa,23,5,COCO_val2014_000000092644.jpg,14,tons of people,3,full_sample,1556315047207,target,True

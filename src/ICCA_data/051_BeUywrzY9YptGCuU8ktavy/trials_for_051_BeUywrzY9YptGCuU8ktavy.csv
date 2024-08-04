@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,0,0,COCO_val2014_000000019763.jpg,51,"The target had no cheese on top, The target is red on top.",13,full_sample,1556315071107,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,1,0,COCO_val2014_000000050422.jpg,51,"The target had a green thing oozing out the middle of it., The target had sauce on its crust, The target has a fork on the plate",27,full_sample,1556315157461,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,2,0,COCO_val2014_000000317798.jpg,51,The target looks like a sandwich,6,full_sample,1556315189195,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,3,0,COCO_val2014_000000044934.jpg,51,The target has a fork on the plate,8,full_sample,1556315217874,distr1,False
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,4,1,COCO_val2014_000000317798.jpg,51,The target looks like a sandwich,6,full_sample,1556315237613,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,5,1,COCO_val2014_000000050422.jpg,51,The target is the 1st photo with a fork on the plate,12,full_sample,1556315271295,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,6,1,COCO_val2014_000000019763.jpg,51,The target has red sauce on top,7,full_sample,1556315287894,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,7,1,COCO_val2014_000000044934.jpg,51,The target is the unfiltered one with a fork on the plate,12,full_sample,1556315359394,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,8,2,COCO_val2014_000000019763.jpg,51,The target has red sauce on top,7,full_sample,1556315375487,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,9,2,COCO_val2014_000000044934.jpg,51,The target is the unfiltered on with a fork on the plate,12,full_sample,1556315399650,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,10,2,COCO_val2014_000000317798.jpg,51,The target looks like a sandwich,6,full_sample,1556315413951,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,11,2,COCO_val2014_000000050422.jpg,51,The target IS the filtered one with a fork on the plate,12,full_sample,1556315440925,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,12,3,COCO_val2014_000000317798.jpg,51,The target looks like a sandwich,6,full_sample,1556315454815,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,13,3,COCO_val2014_000000044934.jpg,51,The target is the one without a filter with a fork on the plate.,14,full_sample,1556315504321,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,14,3,COCO_val2014_000000050422.jpg,51,Filtered  one,2,full_sample,1556315519269,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,15,3,COCO_val2014_000000019763.jpg,51,Red sauce,2,full_sample,1556315528869,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,16,4,COCO_val2014_000000044934.jpg,51,Unfiltered,1,full_sample,1556315541955,distr2,False
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,17,4,COCO_val2014_000000050422.jpg,51,Filtered fork on plate,4,full_sample,1556315559397,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,18,4,COCO_val2014_000000019763.jpg,51,Red sauce on top,4,full_sample,1556315570311,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,19,4,COCO_val2014_000000317798.jpg,51,Sandwich,1,full_sample,1556315581060,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,20,5,COCO_val2014_000000050422.jpg,51,Filtered fork,2,full_sample,1556315595390,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,21,5,COCO_val2014_000000019763.jpg,51,Red sauce on top,4,full_sample,1556315608040,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,22,5,COCO_val2014_000000044934.jpg,51,Unfiltered fork,2,full_sample,1556315620282,target,True
+1733-362e3f99-ce8f-43b1-bc27-4c45de91aa40,23,5,COCO_val2014_000000317798.jpg,51,Sandwich,1,full_sample,1556315632003,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,0,0,COCO_val2014_000000161044.jpg,38,Two planes are flying on the sky,7,full_sample,1555374102787,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,1,0,COCO_val2014_000000455943.jpg,38,the plane flying on the white background,7,full_sample,1555374152220,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,2,0,COCO_val2014_000000551650.jpg,38,the plane flying so far,5,full_sample,1555374203924,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,3,0,COCO_val2014_000000419074.jpg,38,the plane was in landing position,6,full_sample,1555374252264,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,4,1,COCO_val2014_000000161044.jpg,38,two planes are flying,4,full_sample,1555374272027,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,5,1,COCO_val2014_000000551650.jpg,38,the plane flying so far,5,full_sample,1555374293895,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,6,1,COCO_val2014_000000455943.jpg,38,the plane was flying on the whit background,8,full_sample,1555374337472,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,7,1,COCO_val2014_000000419074.jpg,38,the plane was flying in the landing position,8,full_sample,1555374380814,distr1,False
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,8,2,COCO_val2014_000000455943.jpg,38,the plane flying on the white background,7,full_sample,1555374437646,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,9,2,COCO_val2014_000000161044.jpg,38,two planes are flying,4,full_sample,1555374484487,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,10,2,COCO_val2014_000000419074.jpg,38,the plane was in landing position,6,full_sample,1555374514773,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,11,2,COCO_val2014_000000551650.jpg,38,the plane flying so far,5,full_sample,1555374539178,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,12,3,COCO_val2014_000000455943.jpg,38,the plane was flying on white background,7,full_sample,1555374590973,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,13,3,COCO_val2014_000000419074.jpg,38,the plane was landing,4,full_sample,1555374618366,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,14,3,COCO_val2014_000000551650.jpg,38,the plane was flying so fare,6,full_sample,1555374698433,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,15,3,COCO_val2014_000000161044.jpg,38,two planes are flying,4,full_sample,1555374719313,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,16,4,COCO_val2014_000000551650.jpg,38,the plane was flying so fare,6,full_sample,1555374742533,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,17,4,COCO_val2014_000000455943.jpg,38,the plane was playing on the white background,8,full_sample,1555374845051,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,18,4,COCO_val2014_000000161044.jpg,38,two planes are flying,4,full_sample,1555374867677,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,19,4,COCO_val2014_000000419074.jpg,38,the plane was flying so fare,6,full_sample,1555374887812,distr0,False
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,20,5,COCO_val2014_000000455943.jpg,38,the plane with white background,5,full_sample,1555374916272,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,21,5,COCO_val2014_000000419074.jpg,38,the plane was landing position,5,full_sample,1555374938707,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,22,5,COCO_val2014_000000161044.jpg,38,two planes are flying,4,full_sample,1555374955784,target,True
+0727-2931b6d4-585e-4d15-9737-764bc0cb77f3,23,5,COCO_val2014_000000551650.jpg,38,the plane was so far,5,full_sample,1555374975082,target,True

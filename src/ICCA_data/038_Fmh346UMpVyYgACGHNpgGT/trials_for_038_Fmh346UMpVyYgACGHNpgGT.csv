@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,0,0,COCO_val2014_000000419074.jpg,38,"Single plane in center, flying downward.",6,pilot0,1555355033858,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,1,0,COCO_val2014_000000161044.jpg,38,Two planes.,2,pilot0,1555355045038,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,2,0,COCO_val2014_000000551650.jpg,38,"Single distant plane, to the right.",6,pilot0,1555355062698,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,3,0,COCO_val2014_000000455943.jpg,38,Single plane flying to the upper-right.,6,pilot0,1555355080656,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,4,1,COCO_val2014_000000455943.jpg,38,"Same as last time. Single plane, flying to the upper-right.",10,pilot0,1555355103302,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,5,1,COCO_val2014_000000161044.jpg,38,The two planes.,3,pilot0,1555355113728,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,6,1,COCO_val2014_000000551650.jpg,38,The upper-right flyer.,3,pilot0,1555355126885,distr0,False
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,7,1,COCO_val2014_000000419074.jpg,38,"Single plane in center, flying downward.",6,pilot0,1555355142631,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,8,2,COCO_val2014_000000551650.jpg,38,"That single distant one, to the right.",7,pilot0,1555355155867,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,9,2,COCO_val2014_000000455943.jpg,38,"Yeah, the one flying toward the upper-right.",7,pilot0,1555355174323,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,10,2,COCO_val2014_000000161044.jpg,38,The two.,2,pilot0,1555355182615,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,11,2,COCO_val2014_000000419074.jpg,38,The upper-right one again.,4,pilot0,1555355198891,distr1,False
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,12,3,COCO_val2014_000000419074.jpg,38,"The center one, flying downward.",5,pilot0,1555355212632,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,13,3,COCO_val2014_000000455943.jpg,38,The one going toward the upper-right.,6,pilot0,1555355227510,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,14,3,COCO_val2014_000000551650.jpg,38,"The distant one, in the right of the frame.",9,pilot0,1555355256074,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,15,3,COCO_val2014_000000161044.jpg,38,"The two, again.",3,pilot0,1555355267620,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,16,4,COCO_val2014_000000419074.jpg,38,That one flying downward.,4,pilot0,1555355280653,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,17,4,COCO_val2014_000000455943.jpg,38,The one going toward the upper-right.,6,pilot0,1555355293966,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,18,4,COCO_val2014_000000551650.jpg,38,The distant one.,3,pilot0,1555355303919,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,19,4,COCO_val2014_000000161044.jpg,38,The two.,2,pilot0,1555355315873,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,20,5,COCO_val2014_000000455943.jpg,38,The one going to the upper-right.,6,pilot0,1555355331244,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,21,5,COCO_val2014_000000161044.jpg,38,The two.,2,pilot0,1555355340650,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,22,5,COCO_val2014_000000419074.jpg,38,"The center one, going down.",5,pilot0,1555355356042,target,True
+6254-4d5fa351-4182-4e6b-ad6d-8b7177f48ad5,23,5,COCO_val2014_000000551650.jpg,38,The distant one.,3,pilot0,1555355365680,target,True

@@ -1,0 +1,24 @@
+{
+    "IDEFICS":{
+        "standard": "User: you will play a game with multiple rounds involving the same set of images. In each round, guess which image I am describing. If present, use the history of previous rounds to understand how I describe specific images.<end_of_utterance>",
+        "masked": "User: you will play a game with multiple rounds involving the same set of images. In each round, guess which image I am describing. However, you will not see any images and can only make a guess when you are unsure. If present, use the history of previous rounds to understand how I describe specific images. Limit your answer to A, B, C, D.<end_of_utterance>"
+    },
+
+    "llava":{
+        "standard": " you will play a game with multiple rounds involving the same set of images. In each round, I will refer to one of the images with a message. You will guess which image I'm referring to. If present, the history of previous rounds may help you better understand how I refer to specific images. In each round, answer with the image's location in the collage, i.e. top left, top right, bottom left, bottom right.",
+        "masked": " you will play a game with multiple rounds involving the same set of images. In each round, I will refer to one of the images with a message. You will guess which image I'm referring to. However, you will not actually see any images and can only make a guess when you are unsure. If present, the history of previous rounds may help you better understand how I refer to specific images. In each round, answer with the image's location in the collage, i.e. top left, top right, bottom left, bottom right."
+    },
+    
+    "GPT": {
+        "standard": "Play a game with multiple rounds involving the same set of images. In each round, I will refer to one of the images with a message. You will guess which image I am referring to. If present, the history of previous rounds may help you better understand how I refer to specific images. In each round, answer with the image's label, i.e. one of [A, B, C, D]. You should still make a guess even when you are not sure. Do not output anything other than the image label you guess.",
+        "masked": "Play a game with multiple rounds involving the same set of 4 images (labeled A, B, C, D). In each round, I will refer to one of the images with a message. You will guess which image I am referring to by outputing its label. However, you will not actually see any images and should still make a guess even when you don't have enough information. If present, the history of previous rounds may help you better understand how I refer to specific images."
+    },
+
+    "gemini": {
+        "standard": "system: you will play a game with multiple rounds involving the same set of images. In each round, I will refer to one of the images with a message. You will guess which image I'm referring to. If present, the history of previous rounds may help you better understand how I refer to specific images. In each round, output a single letter that represents the target's label, i.e. one of A, B, C, D. You cannot output anything other than one of these letters."
+    },
+    "Claude": {
+        "standard": "Play a game with multiple rounds involving the same set of images. In each round, I will refer to one of the images with a message. You will guess which image I am referring to. If present, the history of previous rounds may help you better understand how I refer to specific images. In each round, answer with the image's label, i.e. one of [A, B, C, D]. You should still make a guess even when you are not sure. Do not output anything other than the image label you guess.",
+        "masked": "Play a game with multiple rounds involving the same set of 4 images (labeled A, B, C, D). In each round, I will refer to one of the images with a message. You will guess which image I am referring to by outputing its label. However, you will not actually see any images and should still make a guess even when you don't have enough information. If present, the history of previous rounds may help you better understand how I refer to specific images."
+    }
+}

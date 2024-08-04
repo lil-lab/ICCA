@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,0,0,COCO_val2014_000000190700.jpg,69,red hat,2,full_sample,1555375827729,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,1,0,COCO_val2014_000000475330.jpg,69,pumpkin shirt,2,full_sample,1555375851767,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,2,0,COCO_val2014_000000322987.jpg,69,pink top with polka dots,5,full_sample,1555375881295,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,3,0,COCO_val2014_000000516766.jpg,69,"white bear, big nose",4,full_sample,1555375900615,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,4,1,COCO_val2014_000000475330.jpg,69,pumpkin shirt,2,full_sample,1555375915704,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,5,1,COCO_val2014_000000190700.jpg,69,red hat,2,full_sample,1555375928963,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,6,1,COCO_val2014_000000322987.jpg,69,pink top,2,full_sample,1555375942399,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,7,1,COCO_val2014_000000516766.jpg,69,big nose,2,full_sample,1555375956904,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,8,2,COCO_val2014_000000322987.jpg,69,pink top,2,full_sample,1555375974744,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,9,2,COCO_val2014_000000475330.jpg,69,pumpkin shirt,2,full_sample,1555375990224,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,10,2,COCO_val2014_000000190700.jpg,69,red hat,2,full_sample,1555376000775,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,11,2,COCO_val2014_000000516766.jpg,69,big nose,2,full_sample,1555376011258,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,12,3,COCO_val2014_000000475330.jpg,69,pumpkin shirt,2,full_sample,1555376021745,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,13,3,COCO_val2014_000000516766.jpg,69,big nose,2,full_sample,1555376031552,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,14,3,COCO_val2014_000000322987.jpg,69,pink top,2,full_sample,1555376044536,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,15,3,COCO_val2014_000000190700.jpg,69,red hat,2,full_sample,1555376053805,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,16,4,COCO_val2014_000000322987.jpg,69,pink top,2,full_sample,1555376065857,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,17,4,COCO_val2014_000000475330.jpg,69,pumpkin,1,full_sample,1555376077671,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,18,4,COCO_val2014_000000516766.jpg,69,big nose,2,full_sample,1555376088095,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,19,4,COCO_val2014_000000190700.jpg,69,red hat,2,full_sample,1555376100809,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,20,5,COCO_val2014_000000322987.jpg,69,pink top,2,full_sample,1555376113696,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,21,5,COCO_val2014_000000190700.jpg,69,red hat,2,full_sample,1555376124083,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,22,5,COCO_val2014_000000516766.jpg,69,big nose,2,full_sample,1555376133689,target,True
+9106-3dd6ddde-5a7f-48b8-8874-bb050508c5a5,23,5,COCO_val2014_000000475330.jpg,69,pumpkin,1,full_sample,1555376151592,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,0,0,COCO_val2014_000000331727.jpg,3,says chs on back,4,pilot0,1555353842499,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,1,0,COCO_val2014_000000396542.jpg,3,red backpack,2,pilot0,1555353853334,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,2,0,COCO_val2014_000000241638.jpg,3,yellow hat,2,pilot0,1555353866708,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,3,0,COCO_val2014_000000249687.jpg,3,kid,1,pilot0,1555353876148,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,4,1,COCO_val2014_000000331727.jpg,3,chs,1,pilot0,1555353885029,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,5,1,COCO_val2014_000000249687.jpg,3,kid,1,pilot0,1555353892566,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,6,1,COCO_val2014_000000241638.jpg,3,yellow cap,2,pilot0,1555353901944,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,7,1,COCO_val2014_000000396542.jpg,3,red backpack,2,pilot0,1555353911119,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,8,2,COCO_val2014_000000331727.jpg,3,chs,1,pilot0,1555353919908,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,9,2,COCO_val2014_000000396542.jpg,3,red backpack,2,pilot0,1555353931574,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,10,2,COCO_val2014_000000249687.jpg,3,kid,1,pilot0,1555353938838,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,11,2,COCO_val2014_000000241638.jpg,3,yellow hat,2,pilot0,1555353947655,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,12,3,COCO_val2014_000000331727.jpg,3,chs,1,pilot0,1555353956625,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,13,3,COCO_val2014_000000396542.jpg,3,red backpack,2,pilot0,1555353966155,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,14,3,COCO_val2014_000000241638.jpg,3,yellow hat,2,pilot0,1555353976002,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,15,3,COCO_val2014_000000249687.jpg,3,kid,1,pilot0,1555353983883,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,16,4,COCO_val2014_000000241638.jpg,3,yellow hat,2,pilot0,1555353992833,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,17,4,COCO_val2014_000000331727.jpg,3,chs,1,pilot0,1555354003742,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,18,4,COCO_val2014_000000396542.jpg,3,red backpack,2,pilot0,1555354014769,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,19,4,COCO_val2014_000000249687.jpg,3,kid,1,pilot0,1555354022418,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,20,5,COCO_val2014_000000241638.jpg,3,yellow hat,2,pilot0,1555354030823,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,21,5,COCO_val2014_000000249687.jpg,3,kid,1,pilot0,1555354039084,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,22,5,COCO_val2014_000000331727.jpg,3,chs,1,pilot0,1555354047678,target,True
+4891-a9def950-a0fa-4d7b-a9ad-b34b5afac491,23,5,COCO_val2014_000000396542.jpg,3,red backpack,2,pilot0,1555354057365,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5911-c08be92f-1030-471b-8767-1edfefe72125,0,0,COCO_val2014_000000574666.jpg,82,one foot on board,4,full_sample,1555374653972,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,1,0,COCO_val2014_000000285314.jpg,82,"on board, one arm up",5,full_sample,1555374682455,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,2,0,COCO_val2014_000000050326.jpg,82,beach,1,full_sample,1555374697804,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,3,0,COCO_val2014_000000083277.jpg,82,in air,2,full_sample,1555374713035,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,4,1,COCO_val2014_000000050326.jpg,82,beach,1,full_sample,1555374728782,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,5,1,COCO_val2014_000000285314.jpg,82,"on board, one arm up",5,full_sample,1555374750861,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,6,1,COCO_val2014_000000574666.jpg,82,one foot on board,4,full_sample,1555374774821,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,7,1,COCO_val2014_000000083277.jpg,82,in air,2,full_sample,1555374789046,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,8,2,COCO_val2014_000000050326.jpg,82,beach,1,full_sample,1555374803507,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,9,2,COCO_val2014_000000574666.jpg,82,one foot on board,4,full_sample,1555374818063,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,10,2,COCO_val2014_000000285314.jpg,82,"on board, one arm in air",6,full_sample,1555374839807,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,11,2,COCO_val2014_000000083277.jpg,82,in air,2,full_sample,1555374860382,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,12,3,COCO_val2014_000000050326.jpg,82,beach,1,full_sample,1555374876428,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,13,3,COCO_val2014_000000285314.jpg,82,"on board, one arm up",5,full_sample,1555374896776,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,14,3,COCO_val2014_000000083277.jpg,82,in air,2,full_sample,1555374909223,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,15,3,COCO_val2014_000000574666.jpg,82,one foot on board,4,full_sample,1555374924275,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,16,4,COCO_val2014_000000050326.jpg,82,beach,1,full_sample,1555374936471,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,17,4,COCO_val2014_000000285314.jpg,82,"on board, one arm in air",6,full_sample,1555374950908,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,18,4,COCO_val2014_000000083277.jpg,82,in air,2,full_sample,1555374966766,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,19,4,COCO_val2014_000000574666.jpg,82,one foot on board,4,full_sample,1555374981083,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,20,5,COCO_val2014_000000285314.jpg,82,"on board, one arm up",5,full_sample,1555374997285,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,21,5,COCO_val2014_000000050326.jpg,82,beach,1,full_sample,1555375012179,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,22,5,COCO_val2014_000000083277.jpg,82,in air,2,full_sample,1555375024344,target,True
+5911-c08be92f-1030-471b-8767-1edfefe72125,23,5,COCO_val2014_000000574666.jpg,82,one foot on board,4,full_sample,1555375041357,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,0,0,COCO_val2014_000000178982.jpg,98,"Street sign visible on top that is green, opening of tunnel/bridge",11,full_sample,1556315011558,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,1,0,COCO_val2014_000000013168.jpg,98,"side shot of a train but you cannot see the end of it, lampost in front",16,full_sample,1556315037391,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,2,0,COCO_val2014_000000325666.jpg,98,"greenlight in front, mcdonalds in back",6,full_sample,1556315055592,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,3,0,COCO_val2014_000000568961.jpg,98,"beginning of train with M on it, inside tunnel",9,full_sample,1556315075437,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,4,1,COCO_val2014_000000178982.jpg,98,"Same as very first time, Green sign on top",9,full_sample,1556315097240,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,5,1,COCO_val2014_000000568961.jpg,98,"Tunnel with M, Train*",4,full_sample,1556315114449,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,6,1,COCO_val2014_000000013168.jpg,98,"Side of Train with lammpost, white New York sign",9,full_sample,1556315131859,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,7,1,COCO_val2014_000000325666.jpg,98,"Green Stoplight in front, train to the left, mcdonalds in back",11,full_sample,1556315154421,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,8,2,COCO_val2014_000000013168.jpg,98,White New York sign,4,full_sample,1556315170261,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,9,2,COCO_val2014_000000568961.jpg,98,"Train with M, Bronx Tour",5,full_sample,1556315186701,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,10,2,COCO_val2014_000000325666.jpg,98,"GreenLight in front, snowing/rain",4,full_sample,1556315200274,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,11,2,COCO_val2014_000000178982.jpg,98,"tunnel entrance, green signs uptop",5,full_sample,1556315213313,distr0,False
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,12,3,COCO_val2014_000000568961.jpg,98,Train with M,3,full_sample,1556315230081,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,13,3,COCO_val2014_000000178982.jpg,98,"Two motorcycles in front, Green sign ontop",7,full_sample,1556315247419,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,14,3,COCO_val2014_000000013168.jpg,98,Side of Train next to New York Sign,8,full_sample,1556315271157,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,15,3,COCO_val2014_000000325666.jpg,98,Snowing/raining,1,full_sample,1556315284911,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,16,4,COCO_val2014_000000568961.jpg,98,Train with M inside tunnel,5,full_sample,1556315302939,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,17,4,COCO_val2014_000000013168.jpg,98,"Side of train, New York",5,full_sample,1556315314283,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,18,4,COCO_val2014_000000325666.jpg,98,"Bunch of cars on the right, snow/rain",7,full_sample,1556315328434,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,19,4,COCO_val2014_000000178982.jpg,98,Motorcycles,1,full_sample,1556315340399,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,20,5,COCO_val2014_000000568961.jpg,98,M,1,full_sample,1556315351947,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,21,5,COCO_val2014_000000013168.jpg,98,To New York,3,full_sample,1556315363037,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,22,5,COCO_val2014_000000325666.jpg,98,mcdonalds,1,full_sample,1556315374058,target,True
+7782-75557c4c-1c0e-4c1f-aa2d-4da2ae7dc275,23,5,COCO_val2014_000000178982.jpg,98,Motorcycles,1,full_sample,1556315384025,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2552-40d189c7-231f-4831-b884-3d0090e5d256,0,0,COCO_val2014_000000568961.jpg,98,Picture of the tail lights of a train in a subway,11,full_sample,1555373908166,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,1,0,COCO_val2014_000000325666.jpg,98,The bright green light and mcdonalds sign,7,full_sample,1555373944176,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,2,0,COCO_val2014_000000178982.jpg,98,There is no train,4,full_sample,1555373960436,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,3,0,COCO_val2014_000000013168.jpg,98,Side view of the train and street sign,8,full_sample,1555373993251,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,4,1,COCO_val2014_000000178982.jpg,98,Green street sign over head,5,full_sample,1555374015676,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,5,1,COCO_val2014_000000325666.jpg,98,Bright green light and Mcdonalds,5,full_sample,1555374043494,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,6,1,COCO_val2014_000000568961.jpg,98,The rear end of the train in the subway,9,full_sample,1555374064499,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,7,1,COCO_val2014_000000013168.jpg,98,the side of the train with street sign,8,full_sample,1555374082324,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,8,2,COCO_val2014_000000178982.jpg,98,The large green street sign,5,full_sample,1555374102747,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,9,2,COCO_val2014_000000013168.jpg,98,side of train with street sign,6,full_sample,1555374122705,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,10,2,COCO_val2014_000000568961.jpg,98,tail lights of train in subway,6,full_sample,1555374140021,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,11,2,COCO_val2014_000000325666.jpg,98,Green light with mcdonalds,4,full_sample,1555374168546,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,12,3,COCO_val2014_000000013168.jpg,98,side of train and street sign,6,full_sample,1555374184109,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,13,3,COCO_val2014_000000325666.jpg,98,green light and mcdonalds,4,full_sample,1555374197359,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,14,3,COCO_val2014_000000568961.jpg,98,tail lights and subway,4,full_sample,1555374210727,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,15,3,COCO_val2014_000000178982.jpg,98,big green sign no train,5,full_sample,1555374224751,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,16,4,COCO_val2014_000000325666.jpg,98,green light and mcdonalds,4,full_sample,1555374237507,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,17,4,COCO_val2014_000000013168.jpg,98,side of train and st sign,6,full_sample,1555374252846,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,18,4,COCO_val2014_000000568961.jpg,98,tail lights and subway,4,full_sample,1555374265791,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,19,4,COCO_val2014_000000178982.jpg,98,big green sign no train,5,full_sample,1555374278343,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,20,5,COCO_val2014_000000325666.jpg,98,green light and mcdonalds,4,full_sample,1555374290800,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,21,5,COCO_val2014_000000013168.jpg,98,side of train and st sign,6,full_sample,1555374304163,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,22,5,COCO_val2014_000000568961.jpg,98,tail lights and subway,4,full_sample,1555374316967,target,True
+2552-40d189c7-231f-4831-b884-3d0090e5d256,23,5,COCO_val2014_000000178982.jpg,98,big green sign no train,5,full_sample,1555374329787,target,True

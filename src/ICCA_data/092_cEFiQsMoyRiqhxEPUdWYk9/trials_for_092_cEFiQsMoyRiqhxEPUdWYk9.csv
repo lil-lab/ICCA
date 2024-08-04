@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,0,0,COCO_val2014_000000428254.jpg,92,man with blue and white shirt,6,full_sample,1556314897536,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,1,0,COCO_val2014_000000194903.jpg,92,red shirt,2,full_sample,1556314910445,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,2,0,COCO_val2014_000000281500.jpg,92,facing away,2,full_sample,1556314923666,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,3,0,COCO_val2014_000000567276.jpg,92,green shirt,2,full_sample,1556314938150,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,4,1,COCO_val2014_000000194903.jpg,92,red shirt,2,full_sample,1556314951510,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,5,1,COCO_val2014_000000428254.jpg,92,"man, blue and white shirt",5,full_sample,1556314969903,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,6,1,COCO_val2014_000000567276.jpg,92,green shirt,2,full_sample,1556314983716,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,7,1,COCO_val2014_000000281500.jpg,92,facing away,2,full_sample,1556314994574,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,8,2,COCO_val2014_000000428254.jpg,92,blue and white shirt with net,6,full_sample,1556315011263,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,9,2,COCO_val2014_000000567276.jpg,92,green shirt,2,full_sample,1556315020917,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,10,2,COCO_val2014_000000194903.jpg,92,red shirt,2,full_sample,1556315028568,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,11,2,COCO_val2014_000000281500.jpg,92,facing away,2,full_sample,1556315041572,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,12,3,COCO_val2014_000000194903.jpg,92,red shirt,2,full_sample,1556315052990,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,13,3,COCO_val2014_000000567276.jpg,92,green shirt,2,full_sample,1556315061971,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,14,3,COCO_val2014_000000428254.jpg,92,blue and white shirt with net,6,full_sample,1556315075425,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,15,3,COCO_val2014_000000281500.jpg,92,facing away,2,full_sample,1556315086622,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,16,4,COCO_val2014_000000428254.jpg,92,blue and white shirt net,5,full_sample,1556315098429,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,17,4,COCO_val2014_000000194903.jpg,92,red shirt,2,full_sample,1556315107820,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,18,4,COCO_val2014_000000567276.jpg,92,green shirt,2,full_sample,1556315116939,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,19,4,COCO_val2014_000000281500.jpg,92,facing away,2,full_sample,1556315126915,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,20,5,COCO_val2014_000000194903.jpg,92,red shirt,2,full_sample,1556315134765,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,21,5,COCO_val2014_000000281500.jpg,92,facing away,2,full_sample,1556315143524,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,22,5,COCO_val2014_000000567276.jpg,92,green shirt,2,full_sample,1556315152165,target,True
+7733-c04d8a0d-4cd9-4332-a8db-6e3307803df5,23,5,COCO_val2014_000000428254.jpg,92,white and blue shirt net,5,full_sample,1556315166561,target,True

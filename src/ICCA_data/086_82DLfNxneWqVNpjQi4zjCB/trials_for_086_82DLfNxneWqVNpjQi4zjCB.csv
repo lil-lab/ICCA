@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,0,0,COCO_val2014_000000136400.jpg,86,Stop sign that is leaning to the right in the picture.,11,full_sample,1555373436620,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,1,0,COCO_val2014_000000000724.jpg,86,Stop sign where STOP is upside down.,7,full_sample,1555373456483,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,2,0,COCO_val2014_000000321308.jpg,86,graphity on the STOP sign,5,full_sample,1555373482735,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,3,0,COCO_val2014_000000098268.jpg,86,ONE WAY,2,full_sample,1555373494649,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,4,1,COCO_val2014_000000321308.jpg,86,writing on STOP SIGN,4,full_sample,1555373510456,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,5,1,COCO_val2014_000000136400.jpg,86,STOP leaning to the right,5,full_sample,1555373530712,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,6,1,COCO_val2014_000000098268.jpg,86,ONE WAY,2,full_sample,1555373541076,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,7,1,COCO_val2014_000000000724.jpg,86,Stop sign where STOP is upside down.,7,full_sample,1555373553017,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,8,2,COCO_val2014_000000098268.jpg,86,ONE WAY,2,full_sample,1555373562505,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,9,2,COCO_val2014_000000000724.jpg,86,Upside down STOP,3,full_sample,1555373574474,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,10,2,COCO_val2014_000000136400.jpg,86,FASTEN SEAT BELTS,3,full_sample,1555373589522,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,11,2,COCO_val2014_000000321308.jpg,86,writing on the STOP sign,5,full_sample,1555373606101,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,12,3,COCO_val2014_000000136400.jpg,86,FASTEN SEAT BELTS,3,full_sample,1555373617347,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,13,3,COCO_val2014_000000098268.jpg,86,ONE WAY,2,full_sample,1555373625766,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,14,3,COCO_val2014_000000000724.jpg,86,STOP Upside down,3,full_sample,1555373636717,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,15,3,COCO_val2014_000000321308.jpg,86,writing on the STOP sign,5,full_sample,1555373648080,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,16,4,COCO_val2014_000000098268.jpg,86,ONE WAY,2,full_sample,1555373658104,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,17,4,COCO_val2014_000000136400.jpg,86,leaning right,2,full_sample,1555373671354,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,18,4,COCO_val2014_000000000724.jpg,86,upside down STOP,3,full_sample,1555373683652,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,19,4,COCO_val2014_000000321308.jpg,86,writing on STOP,3,full_sample,1555373693668,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,20,5,COCO_val2014_000000000724.jpg,86,upside down STOP,3,full_sample,1555373703882,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,21,5,COCO_val2014_000000136400.jpg,86,leaning right,2,full_sample,1555373713026,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,22,5,COCO_val2014_000000321308.jpg,86,writing on STOP,3,full_sample,1555373723175,target,True
+8610-21be0e2f-2005-4f65-b986-f4cb75b60147,23,5,COCO_val2014_000000098268.jpg,86,ONE WAY,2,full_sample,1555373731740,target,True

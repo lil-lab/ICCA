@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,0,0,COCO_val2014_000000548523.jpg,43,I see a piece of clothing hanging from the wall and it is a dim lit kitchen with a lot of silver colored counters and appliances,26,full_sample,1556320763515,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,1,0,COCO_val2014_000000053697.jpg,43,there is a white stove with pans on top. The walls look like wood paneling. there is bright light coming from the visible part of the window.,27,full_sample,1556320826131,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,2,0,COCO_val2014_000000454907.jpg,43,the cupboards are brown stained wood. The oven and refrigerator are stainless steel and the stove looks professional grade stainless steel. There is a blue container or pot on the stove,31,full_sample,1556320902158,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,3,0,COCO_val2014_000000027285.jpg,43,all the aplliances and cupboards are white except for the stove which is stainless teel. the wall is white to the left and behind the appliances it is brown wood,30,full_sample,1556320952754,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,4,1,COCO_val2014_000000548523.jpg,43,a gray piece of clthing hangs from the wall. it is dark. stainless steel appliances.,15,full_sample,1556320997575,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,5,1,COCO_val2014_000000027285.jpg,43,"white appliances, wooden back wall, white wall to the left",10,full_sample,1556321026241,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,6,1,COCO_val2014_000000053697.jpg,43,"white stove, small window with bright light shining through.",9,full_sample,1556321080496,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,7,1,COCO_val2014_000000454907.jpg,43,all stained wooden cupoards and stainless steel appliances,8,full_sample,1556321111642,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,8,2,COCO_val2014_000000027285.jpg,43,"left white wall, back wood wall, white apliances except for stove",11,full_sample,1556321139573,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,9,2,COCO_val2014_000000548523.jpg,43,"stainless steel applaiances, gray piece of clothing hangs from the wall",11,full_sample,1556321168429,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,10,2,COCO_val2014_000000053697.jpg,43,"white stove, bright light from window",6,full_sample,1556321192087,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,11,2,COCO_val2014_000000454907.jpg,43,brown wood cupboards. stainless steel appliances.,6,full_sample,1556321222918,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,12,3,COCO_val2014_000000548523.jpg,43,stainless steel appliances. Gray piece of clothing hangs from the wall,11,full_sample,1556321249856,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,13,3,COCO_val2014_000000053697.jpg,43,"white stove, sunlight through window",5,full_sample,1556321284050,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,14,3,COCO_val2014_000000454907.jpg,43,brown wooden cupboards. stainless steel appliances,6,full_sample,1556321305081,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,15,3,COCO_val2014_000000027285.jpg,43,white appliances except for the stainless steel stove.,8,full_sample,1556321329145,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,16,4,COCO_val2014_000000548523.jpg,43,stainless steel appliance sand gray clothing hangs from the wall,10,full_sample,1556321349517,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,17,4,COCO_val2014_000000053697.jpg,43,white stove. Sunlight shines through wndow,6,full_sample,1556321369142,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,18,4,COCO_val2014_000000027285.jpg,43,white appliances. stainless steel stove,5,full_sample,1556321388745,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,19,4,COCO_val2014_000000454907.jpg,43,"brown cupboards, stainless steel appliances.",5,full_sample,1556321409184,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,20,5,COCO_val2014_000000027285.jpg,43,"white aplliances, brown back wall",5,full_sample,1556321440780,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,21,5,COCO_val2014_000000053697.jpg,43,white stove. sinlight through window,5,full_sample,1556321455098,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,22,5,COCO_val2014_000000454907.jpg,43,brown cupboards. all of them.,5,full_sample,1556321486143,target,True
+0518-1801bcc1-4d64-464c-99f3-6e4bc34d2b9a,23,5,COCO_val2014_000000548523.jpg,43,gray piece of clothing hangs from wall and stainless steel appliances,11,full_sample,1556321508223,target,True

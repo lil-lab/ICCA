@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,0,0,COCO_val2014_000000514518.jpg,66,"Lots of snow, skiier looks small going, going downhill",9,full_sample,1556314845594,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,1,0,COCO_val2014_000000465489.jpg,66,skiing downhill from the left,5,full_sample,1556314877306,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,2,0,COCO_val2014_000000290602.jpg,66,snowboarder doing a jump,4,full_sample,1556314896066,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,3,0,COCO_val2014_000000043314.jpg,66,back of skiis are in the snow,7,full_sample,1556314915874,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,4,1,COCO_val2014_000000290602.jpg,66,jumping snowboarder,2,full_sample,1556314928162,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,5,1,COCO_val2014_000000043314.jpg,66,skiier has back of skiis in the snow,8,full_sample,1556314953650,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,6,1,COCO_val2014_000000514518.jpg,66,"bright, skiier going downhill lots of snow",7,full_sample,1556314978803,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,7,1,COCO_val2014_000000465489.jpg,66,"down hill from the left, no trees",7,full_sample,1556315003635,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,8,2,COCO_val2014_000000290602.jpg,66,airborne with snowboard,3,full_sample,1556315017693,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,9,2,COCO_val2014_000000514518.jpg,66,small skiier going downhill,4,full_sample,1556315033100,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,10,2,COCO_val2014_000000465489.jpg,66,"going down the slept from the left, slope*",8,full_sample,1556315056977,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,11,2,COCO_val2014_000000043314.jpg,66,back of skiis in snow,5,full_sample,1556315066980,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,12,3,COCO_val2014_000000290602.jpg,66,airbone with snowboard,3,full_sample,1556315078162,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,13,3,COCO_val2014_000000043314.jpg,66,back of skiis in snow,5,full_sample,1556315088252,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,14,3,COCO_val2014_000000514518.jpg,66,small skiier downhill,3,full_sample,1556315099628,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,15,3,COCO_val2014_000000465489.jpg,66,down the slope from the left,6,full_sample,1556315113333,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,16,4,COCO_val2014_000000290602.jpg,66,jumping snowboard,2,full_sample,1556315123733,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,17,4,COCO_val2014_000000465489.jpg,66,from the left going down,5,full_sample,1556315134629,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,18,4,COCO_val2014_000000514518.jpg,66,small skiier,2,full_sample,1556315143069,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,19,4,COCO_val2014_000000043314.jpg,66,back of skiis,3,full_sample,1556315154046,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,20,5,COCO_val2014_000000514518.jpg,66,small skiier,2,full_sample,1556315162429,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,21,5,COCO_val2014_000000290602.jpg,66,jumping,1,full_sample,1556315170327,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,22,5,COCO_val2014_000000465489.jpg,66,the left,2,full_sample,1556315179910,target,True
+4849-0a9c570b-f0fb-4f89-83fc-8670ae4942a7,23,5,COCO_val2014_000000043314.jpg,66,back of skiis,3,full_sample,1556315187726,target,True

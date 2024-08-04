@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,0,0,COCO_val2014_000000124712.jpg,29,a little boy standing with bat in hand,8,full_sample,1555374841661,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,1,0,COCO_val2014_000000377588.jpg,29,someone on the ground sliding,5,full_sample,1555374865622,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,2,0,COCO_val2014_000000541123.jpg,29,tennis,1,full_sample,1555374880491,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,3,0,COCO_val2014_000000102478.jpg,29,"black shirt, batting",3,full_sample,1555374909305,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,4,1,COCO_val2014_000000377588.jpg,29,sliding,1,full_sample,1555374922807,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,5,1,COCO_val2014_000000541123.jpg,29,tennis,1,full_sample,1555374937006,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,6,1,COCO_val2014_000000124712.jpg,29,"boy holding bat, white shirt",5,full_sample,1555374956060,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,7,1,COCO_val2014_000000102478.jpg,29,"black shirt, batting",3,full_sample,1555374971120,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,8,2,COCO_val2014_000000377588.jpg,29,sliding,1,full_sample,1555374980726,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,9,2,COCO_val2014_000000102478.jpg,29,"black shirt, batting",3,full_sample,1555374994943,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,10,2,COCO_val2014_000000541123.jpg,29,tennis,1,full_sample,1555375005660,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,11,2,COCO_val2014_000000124712.jpg,29,"white shirt, holding bat",4,full_sample,1555375017202,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,12,3,COCO_val2014_000000541123.jpg,29,tennis,1,full_sample,1555375026581,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,13,3,COCO_val2014_000000102478.jpg,29,"black shirt, batting",3,full_sample,1555375039852,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,14,3,COCO_val2014_000000377588.jpg,29,sliding,1,full_sample,1555375049056,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,15,3,COCO_val2014_000000124712.jpg,29,"white shirt, holding bat",4,full_sample,1555375059076,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,16,4,COCO_val2014_000000102478.jpg,29,"black shirt, batting",3,full_sample,1555375070577,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,17,4,COCO_val2014_000000124712.jpg,29,"white shirt, holding bat",4,full_sample,1555375081471,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,18,4,COCO_val2014_000000377588.jpg,29,sliding,1,full_sample,1555375090474,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,19,4,COCO_val2014_000000541123.jpg,29,tennis,1,full_sample,1555375099255,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,20,5,COCO_val2014_000000124712.jpg,29,"white shirt, bat",3,full_sample,1555375109787,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,21,5,COCO_val2014_000000377588.jpg,29,sliding,1,full_sample,1555375118466,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,22,5,COCO_val2014_000000102478.jpg,29,"black shirt, bat",3,full_sample,1555375129071,target,True
+1462-0f5defdf-dbd8-48d7-abdc-f4be3269ba28,23,5,COCO_val2014_000000541123.jpg,29,tennis,1,full_sample,1555375137719,target,True

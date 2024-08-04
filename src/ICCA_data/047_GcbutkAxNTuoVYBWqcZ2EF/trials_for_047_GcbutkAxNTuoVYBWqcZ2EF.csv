@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,0,0,COCO_val2014_000000068740.jpg,47,Blue boy with numbers,4,full_sample,1556323276714,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,1,0,COCO_val2014_000000483941.jpg,47,Red and white long boy,5,full_sample,1556323290736,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,2,0,COCO_val2014_000000453390.jpg,47,Red and yellow short boy,5,full_sample,1556323305268,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,3,0,COCO_val2014_000000359843.jpg,47,Solid red long boy,4,full_sample,1556323319626,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,4,1,COCO_val2014_000000068740.jpg,47,Blue boy with numbers,4,full_sample,1556323337153,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,5,1,COCO_val2014_000000453390.jpg,47,Red and yellow boy,4,full_sample,1556323350524,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,6,1,COCO_val2014_000000483941.jpg,47,Red and white,3,full_sample,1556323359187,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,7,1,COCO_val2014_000000359843.jpg,47,Solid red,2,full_sample,1556323368876,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,8,2,COCO_val2014_000000068740.jpg,47,Blue top,2,full_sample,1556323377779,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,9,2,COCO_val2014_000000359843.jpg,47,Solid red,2,full_sample,1556323388760,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,10,2,COCO_val2014_000000453390.jpg,47,Red and yellow,3,full_sample,1556323399133,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,11,2,COCO_val2014_000000483941.jpg,47,Red and white,3,full_sample,1556323408036,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,12,3,COCO_val2014_000000068740.jpg,47,Blue boy,2,full_sample,1556323417128,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,13,3,COCO_val2014_000000483941.jpg,47,Red and white,3,full_sample,1556323426071,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,14,3,COCO_val2014_000000359843.jpg,47,Solid red,2,full_sample,1556323434647,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,15,3,COCO_val2014_000000453390.jpg,47,Red and yellow,3,full_sample,1556323444554,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,16,4,COCO_val2014_000000068740.jpg,47,Blue top,2,full_sample,1556323456954,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,17,4,COCO_val2014_000000483941.jpg,47,Red and white,3,full_sample,1556323466361,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,18,4,COCO_val2014_000000453390.jpg,47,Red and yellow,3,full_sample,1556323475858,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,19,4,COCO_val2014_000000359843.jpg,47,Solid red,2,full_sample,1556323484059,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,20,5,COCO_val2014_000000483941.jpg,47,Red and white,3,full_sample,1556323497998,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,21,5,COCO_val2014_000000068740.jpg,47,Blue,1,full_sample,1556323505982,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,22,5,COCO_val2014_000000359843.jpg,47,Solid red,2,full_sample,1556323514584,target,True
+6856-521907d0-a42c-4fde-9df3-1d07ccec0f22,23,5,COCO_val2014_000000453390.jpg,47,Red and yellow,3,full_sample,1556323523881,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,0,0,COCO_val2014_000000483358.jpg,67,The target has a beach in the background and you can see people and umbrellas,15,full_sample,1556315307399,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,1,0,COCO_val2014_000000423113.jpg,67,The target has a white surf board and the surfer has on a long sleeved white shirt with one sleeve partially black,22,full_sample,1556315386008,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,2,0,COCO_val2014_000000485212.jpg,67,this target has a tan board and the board is in front of the surfer who is wearing black,19,full_sample,1556315458247,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,3,0,COCO_val2014_000000199442.jpg,67,"this target has the surfer all in black on a white board, he is standing with his knees bent and his arms out and he has blond/light brown hair",29,full_sample,1556315526333,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,4,1,COCO_val2014_000000485212.jpg,67,this target has the tan board with the surfer behind the board,12,full_sample,1556315556839,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,5,1,COCO_val2014_000000423113.jpg,67,this target is the white board with the black haired surfer wearing a mostly white long sleeved shirt with one black sleeve,22,full_sample,1556315604702,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,6,1,COCO_val2014_000000483358.jpg,67,this target has the beach that you can see in the background,12,full_sample,1556315648108,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,7,1,COCO_val2014_000000199442.jpg,67,"white board, all black surfer suit, bent knees, blondish hair",10,full_sample,1556315694244,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,8,2,COCO_val2014_000000423113.jpg,67,"long sleeved white shirt surfer with one black sleeve, black hair white board",13,full_sample,1556315762413,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,9,2,COCO_val2014_000000199442.jpg,67,"white board, all black suit, bent knees, blondish hair",9,full_sample,1556315804202,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,10,2,COCO_val2014_000000485212.jpg,67,tan board in front of the surfer,7,full_sample,1556315826356,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,11,2,COCO_val2014_000000483358.jpg,67,beach with people seen in the background,7,full_sample,1556315847496,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,12,3,COCO_val2014_000000485212.jpg,67,tan board in front of surfer,6,full_sample,1556315871816,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,13,3,COCO_val2014_000000483358.jpg,67,beach with people in the background,6,full_sample,1556315891537,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,14,3,COCO_val2014_000000199442.jpg,67,"white board, black suit, bent knees, blondish hair",8,full_sample,1556315917082,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,15,3,COCO_val2014_000000423113.jpg,67,"long sleeved white shirt, one black sleeve, white board",9,full_sample,1556315957246,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,16,4,COCO_val2014_000000199442.jpg,67,"white board, bent knees, black suit, blondish hair",8,full_sample,1556315983888,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,17,4,COCO_val2014_000000423113.jpg,67,"long sleeved white shirt, one black sleeve, white board",9,full_sample,1556316023624,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,18,4,COCO_val2014_000000483358.jpg,67,beach with people in the background,6,full_sample,1556316039914,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,19,4,COCO_val2014_000000485212.jpg,67,tan board in front of the surfer,7,full_sample,1556316055796,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,20,5,COCO_val2014_000000423113.jpg,67,"white long sleeved shirt, one black sleeve, white board",9,full_sample,1556316076592,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,21,5,COCO_val2014_000000483358.jpg,67,beach with people in background,5,full_sample,1556316089569,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,22,5,COCO_val2014_000000199442.jpg,67,"white board, all black suit, bent knees, blondish hair",9,full_sample,1556316117302,target,True
+9743-1f2422cc-ed40-4d7a-9994-32f699a23728,23,5,COCO_val2014_000000485212.jpg,67,tan board in front of the surfer,7,full_sample,1556316132210,target,True

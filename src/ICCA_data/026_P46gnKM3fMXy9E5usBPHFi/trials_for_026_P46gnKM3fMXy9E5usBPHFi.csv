@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,0,0,COCO_val2014_000000344758.jpg,26,fruit is in a bowl with pictures of fruit on it,11,full_sample,1556322386174,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,1,0,COCO_val2014_000000353558.jpg,26,top-down view brown swatch in top left corner,8,full_sample,1556322452986,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,2,0,COCO_val2014_000000198367.jpg,26,colorful circles on orange background,5,full_sample,1556322491077,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,3,0,COCO_val2014_000000337247.jpg,26,amazon box,2,full_sample,1556322508395,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,4,1,COCO_val2014_000000353558.jpg,26,top-down view brown swatch in top left corner,8,full_sample,1556322563322,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,5,1,COCO_val2014_000000198367.jpg,26,colorful dots on orange background,5,full_sample,1556322588089,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,6,1,COCO_val2014_000000337247.jpg,26,amazon box,2,full_sample,1556322603054,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,7,1,COCO_val2014_000000344758.jpg,26,fruit in bowl with picture of fruit on the side,10,full_sample,1556322634054,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,8,2,COCO_val2014_000000337247.jpg,26,amazon box,2,full_sample,1556322647227,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,9,2,COCO_val2014_000000198367.jpg,26,colorful dots on orange background,5,full_sample,1556322673560,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,10,2,COCO_val2014_000000353558.jpg,26,top-down view brown swatch in top left corner,8,full_sample,1556322709829,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,11,2,COCO_val2014_000000344758.jpg,26,fruit picture on side of bowl,6,full_sample,1556322731880,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,12,3,COCO_val2014_000000198367.jpg,26,dots on orange background,4,full_sample,1556322749969,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,13,3,COCO_val2014_000000344758.jpg,26,fruit pic on side of bowl,6,full_sample,1556322768902,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,14,3,COCO_val2014_000000353558.jpg,26,top-down view brown swatch in top left corner,8,full_sample,1556322781565,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,15,3,COCO_val2014_000000337247.jpg,26,amazon box,2,full_sample,1556322795509,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,16,4,COCO_val2014_000000198367.jpg,26,dots orange back,3,full_sample,1556322813585,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,17,4,COCO_val2014_000000337247.jpg,26,amazon box,2,full_sample,1556322830362,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,18,4,COCO_val2014_000000344758.jpg,26,fruit pic on bowl,4,full_sample,1556322844242,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,19,4,COCO_val2014_000000353558.jpg,26,top-down view brown swatch in top left corner,8,full_sample,1556322861095,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,20,5,COCO_val2014_000000337247.jpg,26,amazon box,2,full_sample,1556322873954,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,21,5,COCO_val2014_000000198367.jpg,26,dots on orange back,4,full_sample,1556322888405,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,22,5,COCO_val2014_000000344758.jpg,26,fruitpic on side of bowl,5,full_sample,1556322905789,target,True
+7458-763c31e9-7940-41bb-aad7-fab4468f4da2,23,5,COCO_val2014_000000353558.jpg,26,top-down view brown swatch in top left corner,8,full_sample,1556322918100,target,True

@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,0,0,COCO_val2014_000000535312.jpg,68,there is a bike in the picture,7,full_sample,1556315155671,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,1,0,COCO_val2014_000000468162.jpg,68,there is a man laying on the couch in the picture,11,full_sample,1556315201775,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,2,0,COCO_val2014_000000391269.jpg,68,there is a tube TV that you can only see it's side in the picture,15,full_sample,1556315262366,distr2,False
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,3,0,COCO_val2014_000000427965.jpg,68,there are 2 pink flamingos in the picture,8,full_sample,1556315290970,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,4,1,COCO_val2014_000000468162.jpg,68,there is a man laying on the couch in the picture,11,full_sample,1556315309521,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,5,1,COCO_val2014_000000391269.jpg,68,there is a big brown sofa with nothing on it in the picture,13,full_sample,1556315343590,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,6,1,COCO_val2014_000000427965.jpg,68,there are 2 flamingos in the picture,7,full_sample,1556315355716,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,7,1,COCO_val2014_000000535312.jpg,68,there is a bike,4,full_sample,1556315368253,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,8,2,COCO_val2014_000000391269.jpg,68,brown couch nothing on it,5,full_sample,1556315380076,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,9,2,COCO_val2014_000000468162.jpg,68,brown couch with man on it,6,full_sample,1556315392601,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,10,2,COCO_val2014_000000427965.jpg,68,2 flamingos,2,full_sample,1556315403255,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,11,2,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556315411315,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,12,3,COCO_val2014_000000427965.jpg,68,2 flamingos,2,full_sample,1556315421596,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,13,3,COCO_val2014_000000468162.jpg,68,man on couch,3,full_sample,1556315430878,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,14,3,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556315439542,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,15,3,COCO_val2014_000000391269.jpg,68,brown couch nothing on it,5,full_sample,1556315450256,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,16,4,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556315458647,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,17,4,COCO_val2014_000000427965.jpg,68,2 flamingos,2,full_sample,1556315468135,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,18,4,COCO_val2014_000000468162.jpg,68,man on couch,3,full_sample,1556315477401,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,19,4,COCO_val2014_000000391269.jpg,68,brown couch nothing on it,5,full_sample,1556315489047,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,20,5,COCO_val2014_000000468162.jpg,68,man on couch,3,full_sample,1556315497600,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,21,5,COCO_val2014_000000391269.jpg,68,brown couch nothing on it,5,full_sample,1556315508722,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,22,5,COCO_val2014_000000535312.jpg,68,bike,1,full_sample,1556315516970,target,True
+4999-4061da0a-e0a0-4869-b18d-2f246c405706,23,5,COCO_val2014_000000427965.jpg,68,2 flamingos,2,full_sample,1556315526757,target,True

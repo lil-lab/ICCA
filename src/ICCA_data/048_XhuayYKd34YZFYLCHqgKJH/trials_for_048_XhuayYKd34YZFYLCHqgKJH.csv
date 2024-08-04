@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,0,0,COCO_val2014_000000271177.jpg,48,It's the picture of the bike on the white sidewalk,10,full_sample,1556321607587,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,1,0,COCO_val2014_000000142537.jpg,48,"ItIt's It, s tIt', s te hIt's the picture with teh tree driectly behind it",15,full_sample,1556321665642,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,2,0,COCO_val2014_000000566249.jpg,48,the one with the houses behind it,7,full_sample,1556321691512,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,3,0,COCO_val2014_000000264121.jpg,48,The blue sky is in the background,7,full_sample,1556321722788,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,4,1,COCO_val2014_000000271177.jpg,48,The white sidewalk,3,full_sample,1556321736750,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,5,1,COCO_val2014_000000142537.jpg,48,The tree directly behind the bike,6,full_sample,1556321751303,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,6,1,COCO_val2014_000000264121.jpg,48,The blue sky,3,full_sample,1556321770065,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,7,1,COCO_val2014_000000566249.jpg,48,The homes,2,full_sample,1556321783577,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,8,2,COCO_val2014_000000142537.jpg,48,The single tree,3,full_sample,1556321796782,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,9,2,COCO_val2014_000000566249.jpg,48,The homes,2,full_sample,1556321805796,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,10,2,COCO_val2014_000000271177.jpg,48,Sidewalk,1,full_sample,1556321819934,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,11,2,COCO_val2014_000000264121.jpg,48,Blue sky,2,full_sample,1556321827767,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,12,3,COCO_val2014_000000566249.jpg,48,homes,1,full_sample,1556321841824,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,13,3,COCO_val2014_000000264121.jpg,48,blue sky,2,full_sample,1556321850570,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,14,3,COCO_val2014_000000142537.jpg,48,Single tree,2,full_sample,1556321861108,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,15,3,COCO_val2014_000000271177.jpg,48,White sidewalk,2,full_sample,1556321873366,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,16,4,COCO_val2014_000000142537.jpg,48,tree,1,full_sample,1556321882175,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,17,4,COCO_val2014_000000264121.jpg,48,sky of blue,3,full_sample,1556321895623,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,18,4,COCO_val2014_000000271177.jpg,48,sidewalk,1,full_sample,1556321904066,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,19,4,COCO_val2014_000000566249.jpg,48,homes,1,full_sample,1556321912409,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,20,5,COCO_val2014_000000142537.jpg,48,"single stree, tree",3,full_sample,1556321925923,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,21,5,COCO_val2014_000000264121.jpg,48,blue sky,2,full_sample,1556321941137,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,22,5,COCO_val2014_000000566249.jpg,48,homes,1,full_sample,1556321949903,target,True
+9590-a6edaaa6-da0d-4cdb-8f25-a3977f73da13,23,5,COCO_val2014_000000271177.jpg,48,sidesidewalk,1,full_sample,1556321960520,target,True

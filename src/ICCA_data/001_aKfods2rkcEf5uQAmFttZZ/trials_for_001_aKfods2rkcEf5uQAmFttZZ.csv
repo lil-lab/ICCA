@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,0,0,COCO_val2014_000000376677.jpg,1,Dirty truck going towards the bridge.,6,full_sample,1556315205162,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,1,0,COCO_val2014_000000087912.jpg,1,Clean bus exiting the bridge.,5,full_sample,1556315228367,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,2,0,COCO_val2014_000000335119.jpg,1,Graffiti truck with the fence.,5,full_sample,1556315252869,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,3,0,COCO_val2014_000000579036.jpg,1,Graffiti bus no fence.,4,full_sample,1556315278957,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,4,1,COCO_val2014_000000335119.jpg,1,graffiti bus fence,3,full_sample,1556315292952,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,5,1,COCO_val2014_000000376677.jpg,1,dirty truck going to bridge,5,full_sample,1556315309500,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,6,1,COCO_val2014_000000579036.jpg,1,grafitti truck not in fence,5,full_sample,1556315322598,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,7,1,COCO_val2014_000000087912.jpg,1,bus exiting bridge - clean,5,full_sample,1556315337177,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,8,2,COCO_val2014_000000335119.jpg,1,grafitti truck - fence,4,full_sample,1556315354839,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,9,2,COCO_val2014_000000376677.jpg,1,"how is this even guessing, it's so easy, dirty truck going to bridge",13,full_sample,1556315372243,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,10,2,COCO_val2014_000000087912.jpg,1,clean truck leaving bridge,4,full_sample,1556315383725,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,11,2,COCO_val2014_000000579036.jpg,1,grafitti truck - no fence,5,full_sample,1556315395385,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,12,3,COCO_val2014_000000335119.jpg,1,grafitti truck - fence,4,full_sample,1556315406925,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,13,3,COCO_val2014_000000579036.jpg,1,grafitti truck - no fence,5,full_sample,1556315419065,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,14,3,COCO_val2014_000000376677.jpg,1,dirty truck,2,full_sample,1556315431315,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,15,3,COCO_val2014_000000087912.jpg,1,clean truck leaving bridge,4,full_sample,1556315441650,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,16,4,COCO_val2014_000000579036.jpg,1,grafitti - no fence,4,full_sample,1556315455667,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,17,4,COCO_val2014_000000335119.jpg,1,grafitti - fence,3,full_sample,1556315469664,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,18,4,COCO_val2014_000000376677.jpg,1,dirty truck,2,full_sample,1556315478175,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,19,4,COCO_val2014_000000087912.jpg,1,clean truck,2,full_sample,1556315490688,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,20,5,COCO_val2014_000000335119.jpg,1,grafitti - fence,3,full_sample,1556315500309,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,21,5,COCO_val2014_000000087912.jpg,1,clean bus,2,full_sample,1556315515066,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,22,5,COCO_val2014_000000579036.jpg,1,grafitti - no fence,4,full_sample,1556315526865,target,True
+5989-b598be26-5041-4c6f-a5cc-ad63bb2955aa,23,5,COCO_val2014_000000376677.jpg,1,dirty truck,2,full_sample,1556315535317,target,True

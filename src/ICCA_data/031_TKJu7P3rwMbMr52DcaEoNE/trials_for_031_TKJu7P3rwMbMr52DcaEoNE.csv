@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,0,0,COCO_val2014_000000347253.jpg,31,plane beside long black walkway and behind truck,8,full_sample,1555373119665,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,1,0,COCO_val2014_000000036492.jpg,31,grey walkway right up against plane,6,full_sample,1555373144565,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,2,0,COCO_val2014_000000283498.jpg,31,"dark picture, van in front of plane",7,full_sample,1555373173557,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,3,0,COCO_val2014_000000267521.jpg,31,only see back of plane,5,full_sample,1555373195897,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,4,1,COCO_val2014_000000347253.jpg,31,plane behind truck and beside black walkway,7,full_sample,1555373233036,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,5,1,COCO_val2014_000000036492.jpg,31,plane right up against grey walkway,6,full_sample,1555373253500,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,6,1,COCO_val2014_000000283498.jpg,31,dark picture plane behind van,5,full_sample,1555373273648,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,7,1,COCO_val2014_000000267521.jpg,31,back of plane,3,full_sample,1555373288709,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,8,2,COCO_val2014_000000347253.jpg,31,"black walkway, plane behind truck",5,full_sample,1555373307093,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,9,2,COCO_val2014_000000267521.jpg,31,back of plane,3,full_sample,1555373320394,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,10,2,COCO_val2014_000000036492.jpg,31,grey walkway up to plane,5,full_sample,1555373337076,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,11,2,COCO_val2014_000000283498.jpg,31,dark picture,2,full_sample,1555373350435,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,12,3,COCO_val2014_000000267521.jpg,31,back of plane,3,full_sample,1555373361014,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,13,3,COCO_val2014_000000036492.jpg,31,grey walkway,2,full_sample,1555373373489,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,14,3,COCO_val2014_000000347253.jpg,31,black walkway,2,full_sample,1555373387178,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,15,3,COCO_val2014_000000283498.jpg,31,dark picture,2,full_sample,1555373398909,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,16,4,COCO_val2014_000000347253.jpg,31,black walkway,2,full_sample,1555373411221,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,17,4,COCO_val2014_000000036492.jpg,31,grey walkway,2,full_sample,1555373422869,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,18,4,COCO_val2014_000000283498.jpg,31,dark pic,2,full_sample,1555373433171,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,19,4,COCO_val2014_000000267521.jpg,31,back of plane,3,full_sample,1555373444395,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,20,5,COCO_val2014_000000036492.jpg,31,grey walkway,2,full_sample,1555373456843,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,21,5,COCO_val2014_000000267521.jpg,31,back of plane,3,full_sample,1555373468450,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,22,5,COCO_val2014_000000283498.jpg,31,dark pic,2,full_sample,1555373478380,target,True
+2081-8e379b3a-c6df-4b3c-a596-87870350b8d5,23,5,COCO_val2014_000000347253.jpg,31,black walkway,2,full_sample,1555373490688,target,True

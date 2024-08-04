@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,0,0,COCO_val2014_000000408534.jpg,44,the picture with the kite at the top visibly,9,full_sample,1555375510930,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,1,0,COCO_val2014_000000317070.jpg,44,The surfer guy has air in the background behind him and he's holding the board,15,full_sample,1555375550021,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,2,0,COCO_val2014_000000272958.jpg,44,"Very close up of the surfer, closer than all the others",11,full_sample,1555375575140,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,3,0,COCO_val2014_000000339676.jpg,44,Surfer is upright and jumping over the wave. Another person at the bottom of the pic also,17,full_sample,1555375608742,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,4,1,COCO_val2014_000000408534.jpg,44,Kite is visible,3,full_sample,1555375627531,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,5,1,COCO_val2014_000000272958.jpg,44,close up,2,full_sample,1555375640452,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,6,1,COCO_val2014_000000339676.jpg,44,person at bottom,3,full_sample,1555375651916,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,7,1,COCO_val2014_000000317070.jpg,44,air in background,3,full_sample,1555375669626,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,8,2,COCO_val2014_000000272958.jpg,44,close up,2,full_sample,1555375679864,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,9,2,COCO_val2014_000000339676.jpg,44,person at bottom,3,full_sample,1555375691476,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,10,2,COCO_val2014_000000317070.jpg,44,air in background,3,full_sample,1555375705974,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,11,2,COCO_val2014_000000408534.jpg,44,kite visible,2,full_sample,1555375719982,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,12,3,COCO_val2014_000000272958.jpg,44,close up,2,full_sample,1555375730092,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,13,3,COCO_val2014_000000339676.jpg,44,person at bottom,3,full_sample,1555375741279,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,14,3,COCO_val2014_000000317070.jpg,44,air behind him,3,full_sample,1555375758172,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,15,3,COCO_val2014_000000408534.jpg,44,kite visible,2,full_sample,1555375770968,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,16,4,COCO_val2014_000000272958.jpg,44,close up,2,full_sample,1555375780677,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,17,4,COCO_val2014_000000408534.jpg,44,kite visible,2,full_sample,1555375791673,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,18,4,COCO_val2014_000000317070.jpg,44,air in background,3,full_sample,1555375805102,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,19,4,COCO_val2014_000000339676.jpg,44,person at bottom,3,full_sample,1555375815838,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,20,5,COCO_val2014_000000272958.jpg,44,close up,2,full_sample,1555375825796,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,21,5,COCO_val2014_000000317070.jpg,44,air in back,3,full_sample,1555375838869,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,22,5,COCO_val2014_000000408534.jpg,44,kite visible,2,full_sample,1555375855902,target,True
+0788-0101405f-5745-4c8c-a882-d4eaf34b45fd,23,5,COCO_val2014_000000339676.jpg,44,person at bottom,3,full_sample,1555375866663,target,True

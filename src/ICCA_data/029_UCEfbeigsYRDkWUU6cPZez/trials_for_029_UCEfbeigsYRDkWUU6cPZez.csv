@@ -1,0 +1,25 @@
+gameid,trialNum,repNum,targetImg,context_id,msg,uttLength,iterationName,time,clickedObj,correct
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,0,0,COCO_val2014_000000541123.jpg,29,The tennis game,3,full_sample,1555373605518,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,1,0,COCO_val2014_000000102478.jpg,29,"Baseball where you can see the umpire, Baseball with no slider",11,full_sample,1555373652158,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,2,0,COCO_val2014_000000377588.jpg,29,Baseball with slider,3,full_sample,1555373665368,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,3,0,COCO_val2014_000000124712.jpg,29,Kids baseball game,3,full_sample,1555373679244,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,4,1,COCO_val2014_000000541123.jpg,29,They are playing tennis,4,full_sample,1555373691364,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,5,1,COCO_val2014_000000124712.jpg,29,Baseball with kids and parents,5,full_sample,1555373709068,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,6,1,COCO_val2014_000000102478.jpg,29,The ball is being pitched,5,full_sample,1555373727428,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,7,1,COCO_val2014_000000377588.jpg,29,He's sliding into second base,5,full_sample,1555373740508,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,8,2,COCO_val2014_000000124712.jpg,29,A kid is holding a bat,6,full_sample,1555373752852,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,9,2,COCO_val2014_000000541123.jpg,29,They are all wearing red shirts,6,full_sample,1555373763436,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,10,2,COCO_val2014_000000102478.jpg,29,You can see the pitchers mound and home plate,9,full_sample,1555373777772,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,11,2,COCO_val2014_000000377588.jpg,29,There's a logo for a soda company,7,full_sample,1555373791460,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,12,3,COCO_val2014_000000124712.jpg,29,They are sitting in chairs,5,full_sample,1555373807948,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,13,3,COCO_val2014_000000541123.jpg,29,You can see the scoreboard,5,full_sample,1555373820126,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,14,3,COCO_val2014_000000102478.jpg,29,"The ball is in the air, The batter is about to swing",12,full_sample,1555373848932,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,15,3,COCO_val2014_000000377588.jpg,29,The umpire is looking at the slider,7,full_sample,1555373866161,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,16,4,COCO_val2014_000000541123.jpg,29,They are all wearing white shorts,6,full_sample,1555373878660,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,17,4,COCO_val2014_000000102478.jpg,29,The batter is about to swing,6,full_sample,1555373893268,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,18,4,COCO_val2014_000000124712.jpg,29,"A guy is wearing a white hat, And a white shirt",11,full_sample,1555373913893,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,19,4,COCO_val2014_000000377588.jpg,29,"You can see the outfield, You can see the green wall",11,full_sample,1555373935424,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,20,5,COCO_val2014_000000124712.jpg,29,A kid is holding a bat,6,full_sample,1555373956115,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,21,5,COCO_val2014_000000102478.jpg,29,The grass is mowed in circles,6,full_sample,1555373974180,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,22,5,COCO_val2014_000000377588.jpg,29,The pitcher is looking towards the green wall,8,full_sample,1555373998528,target,True
+5422-9323dec7-aef5-457a-9fce-bde223d83dd9,23,5,COCO_val2014_000000541123.jpg,29,"There is a net in the middle of the game, The net has a white top",16,full_sample,1555374020195,target,True
