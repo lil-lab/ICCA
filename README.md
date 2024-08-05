@@ -1,5 +1,5 @@
 # Evaluating In-context Conversational Adaptation in Multimodal LLMs
-This is the official repo for our COLM 2024 paper “Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs”
+This is the official repo for our COLM 2024 paper [Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs](https://arxiv.org/abs/2408.01417).
 
 Yilun Hua and Yoav Artzi
 
