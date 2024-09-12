@@ -15,7 +15,6 @@ class InteractionArgs:
     img_mask: Optional[bool]=field(default=False)
     no_history: Optional[bool]=field(default=False)
     misleading_trials: Optional[list]=field(default=None)
-    #TODO think about how to do round name. should be dependnet on hist length
 
 
 @dataclass
