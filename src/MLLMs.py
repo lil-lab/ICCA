@@ -104,7 +104,7 @@ class ModelWrapper(ABC):
         
     
     @abstractmethod
-    def _get_spkr_prompt(self, intro, t, context_imgs, target_fn, interaction_args, records=[]):
+    def _get_spkr_prompt(self, round_name, target_label):
         pass
 
     @abstractmethod
