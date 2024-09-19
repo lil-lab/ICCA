@@ -7,3 +7,5 @@ openai==1.12.0
 anthropic==0.18.1
 google-generativeai==0.3.2
 pandas==2.0.3
+accelerate==0.21.0
+bitsandbytes==0.41.0
