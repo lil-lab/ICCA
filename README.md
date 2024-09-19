@@ -5,7 +5,7 @@ Yilun Hua and Yoav Artzi
 
 ## Prerequisites
 
-Create a new environment and run `pip install -r requirements.txt`. This sets up the environment to evaluate IDEFICS, Gemini, GPT4, and Claude. To evaluate LLaVA, `cd LLaVA` and run `pip install -e .`. 
+Create a new environment and run `pip install -r requirements.txt`. This sets up the environment to evaluate IDEFICS, Gemini, GPT4, and Claude. To evaluate LLaVA, go to LLaVA's directory by running `cd LLaVA` and run `pip install -e .`. 
 
 You will need API access for Gemini, GPT4, and Claude. Please refer to their websites and documentions for API access. 
 
