@@ -5,9 +5,11 @@ Yilun Hua and Yoav Artzi
 
 ## Prerequisites
 
-Please follow the official guides of the multimodal LLMs (MLLMs) to set up their respective environments. ICCA’s current codebase supports evaluation of IDEFICS, LLaVa, GPT4, Gemini, and Claude. ICCA can also be easily customized to evaluate more MLLMs (see our instructions below).
+Create a new environment and run `pip install -r requirements.txt`. This sets up the environment to evaluate IDEFICS, Gemini, GPT4, and Claude. To evaluate LLaVA, `cd LLaVA` and run `pip install -e .`. 
 
-Additionally, ICCA requires python 3.10, sklearn, and pillow 
+You will need API access for Gemini, GPT4, and Claude. Please refer to their websites and documentions for API access. 
+
+To evaluate other models, it's best to create separate environments for them and follow their official instruction for installation. 
 
 ## Running ICCA
 
