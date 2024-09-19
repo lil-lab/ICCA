@@ -3,7 +3,7 @@ python run_icca.py \
     --lsnr_model_type "GPT" \
     --spkr_intro_version "simple" \
     --lsnr_intro_version "standard" \
-    --data_dir "icca_data" \
+    --data_dir "ICCA_data" \
     --spkr_img_mode "base64_string" \
     --lsnr_img_mode "URL" \
     --spkr_API_key "" \
