@@ -5,7 +5,9 @@ Yilun Hua and Yoav Artzi
 
 ## Prerequisites
 
-Create a new environment with python>3.10 and run `pip install -r requirements.txt`. This sets up the environment to evaluate IDEFICS, Gemini, GPT4, and Claude. To evaluate LLaVA, go to LLaVA's directory by running `cd LLaVA` and run `pip install -e .`. 
+To evaluate IDEFICS, Gemini, GPT4, and Claude, create a new environment with python>=3.10 and run `pip install -r requirements.txt`. 
+
+To evaluate LLaVA, create a new environment with python>=3.10, run `pip install -r requirements.llava.txt`, then go to the directory `LLaVA` and run `pip install -e .`. 
 
 For open-sourced models, their checkpoints will be automatically downloaded when running our code. You will need API access for the closed-source models (Gemini, GPT4, and Claude). Please refer to their websites and documentions for API access. 
 
